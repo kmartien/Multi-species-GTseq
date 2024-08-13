@@ -1,0 +1,231 @@
+LABID,CONTACT_NAME,Restrict_Description,Date_Collected,Latitude,Longitude,Location,Island,State,Country,Ocean_Basin,KKM_Location,category,Rank,DQuant,concentration,dna.comments,TQuant
+206165,HOLLY RAUDINO,Donator requested that PI request permission to use in study,5/11/17,-19.674592,120.858618,"Eighty mile beach, Western Australia, Australia",,WESTERN AUSTRALIA,AUSTRALIA,Indian Ocean,Indian Ocean,,,2,0.41,,2
+185277,CHRISTINE FURY,,??/??/????,NA,NA,,,,AUSTRALIA,Indian Ocean,Indian Ocean,,,,,,3
+533,Darrin Lunde,Donator requested that PI request permission to use in study,9/22/71,48.083333,-53.083333,"NEWFOUNDLAND, TRINITY BAY",,,CANADA,North Atlantic,Newfoundland,NWAtl1,1,4,350,,3
+48062,ANTONIO MIGNUCCI-GIANNONI,Donator requested that PI request permission to use in study,10/16/91,18.15,-65.45,,Isla de Vieques,,PUERTO RICO,North Atlantic,Puerto Rico,,,0,,,3
+48081,ANTONIO MIGNUCCI-GIANNONI,Donator requested that PI request permission to use in study,6/10/96,17.966666,-66.766666,GUAYANILLA,,,PUERTO RICO,North Atlantic,Puerto Rico,,,,,,3
+48084,ANTONIO MIGNUCCI-GIANNONI,Donator requested that PI request permission to use in study,1/28/98,18.483333,-66.366666,VEGA BAJA,,,PUERTO RICO,North Atlantic,Puerto Rico,,,,,,3
+8672,DAN ODELL,,3/27/97,29.283333,-81.033333,ORMOND BEACH,,FLORIDA,UNITED STATES OF AMERICA,North Atlantic,SW coast,NWAtl3,1,"3,4",,,3
+7447,DAN ODELL,,12/14/92,26.2,-80.083333,POMPANO BEACH,,FLORIDA,UNITED STATES OF AMERICA,North Atlantic,SW coast,NWAtl3,2,3,,,3
+8682,DAN ODELL,,10/7/97,30.766666,-81.066666,CHATHAM,Ossabaw Island,GEORGIA,UNITED STATES OF AMERICA,North Atlantic,SW coast,NWAtl3,3,1,9,,3
+451,Darrin Lunde,Donator requested that PI request permission to use in study,12/30/70,34.333333,-75.583333,CAPE HATTERAS,,NORTH CAROLINA,UNITED STATES OF AMERICA,North Atlantic,SW coast,,,"4,4,4",,,3
+479,Darrin Lunde,Donator requested that PI request permission to use in study,5/13/81,35.466666,-75.466666,,,NORTH CAROLINA,UNITED STATES OF AMERICA,North Atlantic,SW coast,,,3,12,,3
+483,Darrin Lunde,Donator requested that PI request permission to use in study,9/8/84,35.716666,-75.483333,,,NORTH CAROLINA,UNITED STATES OF AMERICA,North Atlantic,SW coast,,,4,530,,0
+5074,LANCE CLARK,,4/24/93,27.383333,-97.35,NATIONAL SEASHORE,Padre Island,TEXAS,UNITED STATES OF AMERICA,North Atlantic,SW coast,NWAtl4,2,"2,2",,,3
+12307,Barbie Halaska,,2/18/99,37.2,-122.366666,BEAN HOLLOW,,TEXAS,UNITED STATES OF AMERICA,North Atlantic,SW coast,NWAtl4,1,"4,2",,,3
+4975,Darrin Lunde,Donator requested that PI request permission to use in study,1/14/92,37.533333,-75.616666,,Parramore Island,VIRGINIA,UNITED STATES OF AMERICA,North Atlantic,SW coast,,,"4,4,4",,,3
+7778,,,7/8/97,40.116666,-68.783333,NW ATLANTIC,,,UNITED STATES OF AMERICA,North Atlantic,NW coast,NWAtl2,1,"3,3",,,2
+7779,,,7/8/97,40.116666,-68.783333,NW ATLANTIC,,,UNITED STATES OF AMERICA,North Atlantic,NW coast,NWAtl2,2,"1,1,3",,,3
+4551,ANNE COLLET,,12/19/93,NA,NA,MEDITERRANEAN,,,,North Atlantic,NE Atlantic,Mediterranean,1,"2,2","NA, 3920",,3
+3077,ANNE COLLET,,7/30/93,48.033333,-14.366666,NE ATLANTIC,,,,North Atlantic,NE Atlantic,NE Atlantic,1,4,990,,3
+3067,ANNE COLLET,,6/17/93,45.016666,-19.55,NE ATLANTIC,,,,North Atlantic,NE Atlantic,NE Atlantic,2,3,1890,,3
+3170,ANNE COLLET,,6/27/93,45.766666,-18.7,NE ATLANTIC,,,,North Atlantic,NE Atlantic,NE Atlantic,3,3,3950,,3
+3056,ANNE COLLET,,6/17/93,45.016666,-19.55,NE ATLANTIC,,,,North Atlantic,NE Atlantic,NE Atlantic,,"2,4,3",,,3
+3982,Gretchen Lovewell,,??/??/1995,NA,NA,,,,,North Atlantic,?,,,4,14,,3
+217545,MICHAEL MARSIK,"No external permission needed, but donator requests notification when used.",1/14/23,33.2833,33.2833,"High Seas, N of Hawaii",,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,CNP,,,,,,3
+4691,JAY BARLOW,,10/27/95,24.2,-108.583333,GULF OF CALIFORNIA,,,MEXICO,North Pacific,ETP,ETP1,1,4,16,,3
+4689,JAY BARLOW,,10/27/95,24.2,-108.583333,GULF OF CALIFORNIA,,,MEXICO,North Pacific,ETP,ETP1,2,"4,4,3","NA, 125, NA",,0
+4692,JAY BARLOW,,10/27/95,24.2,-108.583333,GULF OF CALIFORNIA,,,MEXICO,North Pacific,ETP,ETP1,3,3,,,2
+4690,JAY BARLOW,,10/27/95,24.2,-108.583333,GULF OF CALIFORNIA,,,MEXICO,North Pacific,ETP,ETP1,,2,10,,3
+15900,LISA Ballance,,8/11/99,25.65,-110.216666,,,,MEXICO,North Pacific,ETP,ETP2,1,"2,3","34, NA",,"2,0"
+11694,TIM GERRODETTE,,11/29/98,16.65,-100.566666,,,,MEXICO,North Pacific,ETP,ETP3,1,"4,3","25, NA",,"3,0"
+38275,LISA Ballance,,11/1/03,15.266666,-100.8,,,,MEXICO,North Pacific,ETP,ETP4,1,"1,3",,,"1,3"
+38256,LISA Ballance,,10/29/03,15.183333,-94.216666,,,,MEXICO,North Pacific,ETP,ETP5,1,"3,3",,,"2,2,3"
+38251,LISA Ballance,,10/29/03,15.15,-94.05,,,,MEXICO,North Pacific,ETP,ETP6,1,"2,3",,,"3,3,3"
+15901,LISA Ballance,,8/11/99,25.583333,-110.066666,,,,MEXICO,North Pacific,ETP,ETP2,2,"2,3","33, NA",,"3,0"
+11693,TIM GERRODETTE,,11/29/98,16.65,-100.566666,,,,MEXICO,North Pacific,ETP,ETP3,2,"2,3","52, NA",,"3,0"
+38277,LISA Ballance,,11/1/03,15.266666,-100.8,,,,MEXICO,North Pacific,ETP,ETP4,2,"2,0",,,"1,3,2"
+38258,LISA Ballance,,10/29/03,15.183333,-94.216666,,,,MEXICO,North Pacific,ETP,ETP5,2,"2,3",,,"3,3,3"
+38252,LISA Ballance,,10/29/03,15.15,-94.05,,,,MEXICO,North Pacific,ETP,ETP6,2,"2,3",,,"2,3,3"
+15899,LISA Ballance,,8/11/99,25.65,-110.216666,,,,MEXICO,North Pacific,ETP,ETP2,3,"2,3","29, NA",,"3,0"
+11692,TIM GERRODETTE,,11/29/98,16.65,-100.566666,,,,MEXICO,North Pacific,ETP,ETP3,3,"2,0","44, NA",,"3,3"
+38253,LISA Ballance,,10/29/03,15.15,-94.05,,,,MEXICO,North Pacific,ETP,ETP6,3,"2,3",,,"3,3,3"
+37972,LISA Ballance,,8/11/03,26.216666,-119.816666,,,,MEXICO,North Pacific,ETP,ETP2,,2,,,"0,2,3"
+37971,LISA Ballance,,8/11/03,26.266666,-119.816666,,,,MEXICO,North Pacific,ETP,ETP2,,2,,,"3,3,3"
+37967,LISA Ballance,,8/10/03,24.183333,-109.366666,,,,MEXICO,North Pacific,ETP,ETP2,,3,,,1
+38114,LISA Ballance,,9/6/03,17.1,-100.966666,,,,MEXICO,North Pacific,ETP,ETP3,,0,,,"2,3,3"
+38113,LISA Ballance,,9/6/03,17.1,-100.966666,,,,MEXICO,North Pacific,ETP,ETP3,,"2,0",,,"2,3,3"
+15997,LISA Ballance,,9/13/99,16.65,-99.933333,,,,MEXICO,North Pacific,ETP,ETP3,,"4,1,3","NA, 13, NA",,"3,0"
+38276,LISA Ballance,,11/1/03,15.266666,-100.8,,,,MEXICO,North Pacific,ETP,ETP4,,"1,0",,,3
+38254,LISA Ballance,,10/29/03,15.183333,-94.216666,,,,MEXICO,North Pacific,ETP,ETP5,,1,,,"2,2,3"
+38255,LISA Ballance,,10/29/03,15.183333,-94.216666,,,,MEXICO,North Pacific,ETP,ETP5,,"2,0",,,"1,2,3"
+38257,LISA Ballance,,10/29/03,15.183333,-94.216666,,,,MEXICO,North Pacific,ETP,ETP5,,"2,0",,,"2,2,2"
+38266,LISA Ballance,,10/30/03,15.583333,-95.883333,,,,MEXICO,North Pacific,ETP,,,"2,3",,,"1,2,3"
+2668,WILLIAM PERRIN,,??/??/1992,NA,NA,,,,PHILIPPINES,North Pacific,Philippines,WNP1,1,"4,3,3","12, NA, NA",,3
+9558,Lien-Siang Chou,,??/??/????,NA,NA,,,,"TAIWAN, PROVINCE OF CHINA",North Pacific,Taiwan,WNP2,1,4,30,,3
+9556,Lien-Siang Chou,,??/??/????,NA,NA,,,,"TAIWAN, PROVINCE OF CHINA",North Pacific,Taiwan,WNP2,2,"3,4","NA, 16",,3
+9557,Lien-Siang Chou,,??/??/????,NA,NA,,,,"TAIWAN, PROVINCE OF CHINA",North Pacific,Taiwan,WNP2,3,1,20,,3
+101143,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,9/6/10,34.133333,-120.133333,,Channel Islands,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,1,"4,3","NA, 167.41",,3
+101160,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,8/28/10,33.45,-118.333333,,Channel Islands,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"3,3",,,3
+101159,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,8/28/10,33.45,-118.333333,,Channel Islands,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"4,3",,,3
+101142,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,9/6/10,34.133333,-120.133333,,Channel Islands,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,"3,3",,,3
+101144,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,9/6/10,34.133333,-120.133333,,Channel Islands,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,"3,3",,,3
+113633,Collection Manager - SWFSC ,,7/24/11,32.90055,-118.4184,2 km off lee side of San Clemente Island,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+113634,Collection Manager - SWFSC ,,7/24/11,32.913216,-118.40975,2 km off lee side of San Clemente Island,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+125950,Collection Manager - SWFSC ,,5/2/11,32.866666,-118.783333,22 kilometers west of San Clemente Island,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+125951,Collection Manager - SWFSC ,,5/2/11,32.866666,-118.783333,22 kilometers west of San Clemente Island,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+125952,Collection Manager - SWFSC ,,5/2/11,32.866666,-118.8,22 kilometers west of San Clemente Island,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+79779,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,7/26/09,32.316666,-118.05,DANA POINT,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,1
+208127,STRANDING COORDINATOR ,,10/14/21,33.00488,-118.55735,"Wilson Cove, San Clemente Island, Los Angeles County, CA, Pacific Ocean",San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,"3,3"
+79774,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,7/25/09,32.916666,-118.933333,,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+94413,Collection Manager - SWFSC ,,6/20/10,32.916666,-118.433333,,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+79953,Collection Manager - SWFSC ,,7/23/09,33.066666,-118.55,,San Clemente Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+94471,Michelle Berman,,4/19/10,NA,NA,,San Miguel Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,,,0,,,"3,3"
+94472,Michelle Berman,,4/22/10,NA,NA,,San Miguel Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,,,4,,,3
+102563,Collection Manager - SWFSC ,Donator requested that PI request permission to use in study,10/26/10,33.383333,-118.466666,"AVALON, LITTLE",Santa Catalina Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,1,358.3,,3
+123935,Collection Manager - SWFSC ,,1/9/11,33.383333,-118.35,"Lee Side, 2 km from shore",Santa Catalina Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+123934,Collection Manager - SWFSC ,,1/9/11,33.4,-118.35,"Lee Side, 2 km from shore",Santa Catalina Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+87480,ROBERT PITMAN,,8/21/09,33.166666,-118.716666,NW off Santa Catalina Island,Santa Catalina Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+87483,ROBERT PITMAN,,8/23/09,33.483333,-119.483333,NW off Santa Catalina Island,Santa Catalina Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+87478,JOHN CALAMBOKIDIS,,8/19/09,NA,NA,NW off Santa Catalina Island,Santa Catalina Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,,,3,,,3
+118477,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,9/23/13,33.303,-118.192,,Santa Catalina Island,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,1
+186894,Barbie Halaska,,10/24/17,37.9019,-122.7184,"Bolinas, Agate Beach",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,3
+177991,Barbie Halaska,,8/10/16,37.63409,-122.39693,Burlingame,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,3
+12306,Barbie Halaska,,1/30/99,35.55,-121.066666,CAMBRIA,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,"0,2,3",,,"0,1"
+23942,STRANDING COORDINATOR ,,6/14/01,33.083333,-117.316666,"CARLSBAD, SOUTH PONTO BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"2,4,0","NA, 10, NA",,"3,3"
+32931,JIM HARVEY,,8/1/97,36.45,-121.9,"CARMEL, GARRAPATA ST. PARK, GARRAPATA BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,3,,,3
+185553,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,6/26/17,33.4589,-118.4799,Catalina Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+185562,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,6/28/17,33.4837,-118.5357,Catalina Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+124025,Collection Manager - SWFSC ,,10/19/05,40.583333,-124.416666,Centerville Beach,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,1,3,,,3
+79772,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,7/22/09,32.566666,-117.866666,Dana Point-Long Beach-Catalina-SCI,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+73404,Barbie Halaska,,11/25/06,NA,NA,FANSHELL BEACH,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,,,3,,,3
+210189,Barbie Halaska,,5/25/20,38.4127,-123.1019,"Furlong Gulch (Sonoma Coast State Beaches), Bodega Bay, Sonoma County, CA, USA",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,3
+77617,Eric Otjen,,10/18/08,32.833333,-117.283333,"LA JOLLA, 1/4 MI OFFSHORE WIND",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,1,,,3
+113443,STRANDING COORDINATOR ,,11/1/12,32.854611,-117.258944,"LA JOLLA, BLACKS BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,"3,3,3"
+113442,STRANDING COORDINATOR ,,10/24/12,32.875966,-117.25123,"LA JOLLA, BLACKS BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,"3,3,3"
+52456,JOHN HYDE,,1/23/06,32.95,-117.366666,"LA JOLLA, BLACKS BEACH, INSHORE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+52455,JOHN HYDE,,1/23/06,32.95,-117.366666,"LA JOLLA, BLACKS BEACH, INSHORE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,1
+48586,JOHN HYDE,,8/14/05,32.6,-117.383333,"LA JOLLA, OFFSHORE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+113441,STRANDING COORDINATOR ,,10/17/12,32.851989,-117.270193,"LA JOLLA, OFFSHORE LA JOLLA COVE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,"3,3,3"
+72,JORGE VELEZ-JUARBE,Donator requested that PI request permission to use in study,10/13/81,34.033333,-118.916666,LEO CARILLO BEACH,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,"3,3,4","NA, NA, 87",,"3,3"
+74703,STRANDING COORDINATOR ,,8/8/08,NA,NA,"LEUCADIA, BEACON'S BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,,,3,,,"1,3,3"
+53165,Michelle Berman,,10/11/04,34.683333,-120.6,"LOMPOC, OCEAN PARK BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,3,,,3
+124011,Collection Manager - SWFSC ,Donator requested that PI request permission to use in study,12/9/10,33.366666,-118.483333,"LOS ANGELES, AVALON, COTTONWOOD BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,0,,,3
+178027,CYNTHIA REYES,,10/18/14,34.047588,-118.952536,Malibu Bay Club,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,,,,0
+114337,CYNTHIA REYES,,12/10/12,34.031421,-118.846652,"Malibu, Broad Beach",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,,,,3
+133255,CYNTHIA REYES,,10/4/11,34.05,-118.95,"MALIBU, COUNTY LINE BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,,,,3
+117598,Eric Otjen,Donator requested that PI request permission to use in study,9/15/13,33.885556,-118.412778,Manhatten Beach,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,"3,3,3"
+88952,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,11/23/09,33.816666,-118.566666,Marina del Rey,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"0,1",,,3
+173811,Barbie Halaska,,12/15/15,36.601039,-121.88411,Monterey,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,3
+178265,Greg Schorr,Donator requested that PI request permission to use in study,10/5/16,36.7697,-122.0343,Monterey Bay,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,"0,3","52.77, NA",,3
+178266,Greg Schorr,Donator requested that PI request permission to use in study,10/5/16,36.7697,-122.0343,Monterey Bay,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,1
+126024,Barbie Halaska,,8/29/10,NA,NA,"MONTEREY, MARINA STATE BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,,,,,,3
+32940,JIM HARVEY,,1/1/03,36.816666,-121.8,"MONTEREY, MOSS LANDING, ML STATE BEACH 1.5 MILE N.JETTY",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,3,,,3
+57814,JIM HARVEY,,1/31/05,36.583333,-121.95,"Monterey, Pebble Beach, in front of Seal Rock",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,2,,,3
+143967,Barbie Halaska,,12/23/13,36.610999,-121.892,Monterey; San Carlos Beach,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,3
+202274,Barbie Halaska,,1/9/19,36.802274,-121.788671,Moss Landing Beach,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,3
+108390,JIM HARVEY,,9/15/11,36.8,-121.783333,"MOSS LANDING, SALINA RIVER STATE BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,3
+141,Kerri Danil,,8/27/91,35.183333,-121.166666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,1,"4,4","NA, 150",,3
+9335,Kerri Danil,,11/28/97,36.416666,-122.216666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,1,"2,4,3","NA, 12, NA",,"3,3"
+144,Kerri Danil,,7/20/91,34.7,-121.283333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,2,"4,4",,,3
+4694,Kerri Danil,,10/25/93,36.233333,-122.9,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,2,"3,0","910, NA",,3
+1293,Kerri Danil,,1/24/93,32.716666,-118.966666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,3,"4,2","13, NA",,3
+5001,Kerri Danil,,10/29/95,34.55,-120.9,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,3,"4,3",,,3
+39082,Kerri Danil,,11/16/03,35.966666,-121.933333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,3,"2,3","15, NA",,3
+23799,JOHN HYDE,,6/10/01,32.833333,-117.35,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,0,106,,"3,3"
+2167,Kerri Danil,,11/23/93,32.416666,-118.133333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,2,810,,3
+28480,JOHN HYDE,,8/9/02,32.883333,-117.4,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+4771,Kerri Danil,,6/22/95,32.4,-119,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"1,4,3",,,3
+23800,JOHN HYDE,,6/10/01,32.9,-117.35,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"2,0","30, NA",,"1,3"
+8759,Kerri Danil,,9/30/97,32.85,-117.5,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"3,0",,,3
+6157,JAY BARLOW,,9/5/96,33.283333,-118.983333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"3,3",,,3
+1294,Kerri Danil,,1/24/93,32.716666,-118.966666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"4,3","8, NA",,3
+1291,Kerri Danil,,1/21/93,32.716666,-118.95,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"4,3",,,3
+2165,Kerri Danil,,11/24/93,32.4,-118.033333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"4,4,4,3,4",,,"3,3"
+113015,Kerri Danil,,9/29/11,33.791667,-119.506667,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+1875,Kerri Danil,,11/22/93,34.116666,-121.933333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,2,1420,,3
+776,Kerri Danil,,7/25/92,34.433333,-121.066666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,,0,6,,3
+5008,Kerri Danil,,10/29/95,34.533333,-120.866666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,,1,,,3
+79937,Kerri Danil,,10/18/08,34.7,-121.05,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,,"0,1","NA, 512.87",,3
+5004,Kerri Danil,,10/29/95,34.55,-120.9,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,,"1,4,3",,,3
+1301,Kerri Danil,,10/15/92,35.2,-121.666666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,,"3,4,3,3,3,4,4",,,"3,3,3"
+5007,Kerri Danil,,10/29/95,34.533333,-120.866666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore1,,"4,3",,,3
+1564,Kerri Danil,,11/15/92,38.133333,-125.983333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,,1,,,"3,3"
+39080,Kerri Danil,,11/16/03,35.966666,-121.933333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,,"0,4,4",,,3
+4695,Kerri Danil,,9/27/92,35.616666,-122.116666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,,"2,2,3",,,3
+9336,Kerri Danil,,11/28/97,36.416666,-122.216666,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,,"2,4,1","NA, NA, 61",,3
+39083,Kerri Danil,,11/16/03,35.966666,-121.933333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,,"3,2","NA, 1499",,3
+39084,Kerri Danil,,11/16/03,35.966666,-121.933333,OFFSHORE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,,"3,2,4",,,3
+23155,Kerri Danil,,5/20/00,32.283333,-118.933333,OFFSHORE (DRIFTNET),,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,1,,,3
+23187,Kerri Danil,,9/24/00,35.8,-122.233333,OFFSHORE (DRIFTNET),,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,Offshore2,,1,,,3
+88975,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,11/11/09,33.733333,-119.7,Oxnard,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+39556,Michelle Berman,,5/30/03,34,-119,OXNARD SHORES AT 5TH ST.,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,3,,,3
+76436,Michelle Berman,,3/30/08,34.1,-119.1,PT. MUGU,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,3,,,3
+210231,Barbie Halaska,,9/3/21,37.6081,-122.4979,"Rockaway Beach (Rockaway Beach Ave), Pacifica, San Mateo County, CA, USA",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,,,,3
+26643,STRANDING COORDINATOR ,,2/7/02,33.416666,-117.616666,SAN CLEMENTE CITY BEACH,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"1,4,0",,,"3,3"
+173497,Greg Schorr,Donator requested that PI request permission to use in study,2/24/16,32.9237,-118.3748,San Clemente Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+178258,Greg Schorr,Donator requested that PI request permission to use in study,8/23/16,32.9389,-118.4421,San Clemente Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+173507,Greg Schorr,Donator requested that PI request permission to use in study,4/10/16,32.9555,-118.9228,San Clemente Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+173499,Greg Schorr,Donator requested that PI request permission to use in study,2/26/16,32.9858,-118.5003,San Clemente Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+178259,Greg Schorr,Donator requested that PI request permission to use in study,8/24/16,33.2947,-118.4666,San Clemente Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+178260,Greg Schorr,Donator requested that PI request permission to use in study,8/24/16,33.2947,-118.4666,San Clemente Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+178261,Greg Schorr,Donator requested that PI request permission to use in study,8/24/16,33.2947,-118.4666,San Clemente Island,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+157454,STRANDING COORDINATOR ,,6/21/15,33.432199,-117.633933,"SAN CLEMENTE, 1880 NORTH EL CAMINO REAL #90",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,"3,3,3"
+66557,STRANDING COORDINATOR ,,6/25/07,33.416666,-117.633333,"SAN CLEMENTE, TOWER 10",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"4,3",,,"3,3,3"
+125882,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,6/18/11,32.6,-117.516666,San Diego South,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"4,0",,,3
+133201,NICK KELLAR,,10/10/11,32.883333,-117.283333,"SAN DIEGO, PACIFIC OCEAN",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,2,,,3
+133202,NICK KELLAR,,10/10/11,32.883333,-117.283333,"SAN DIEGO, PACIFIC OCEAN",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+185487,Greg Schorr,Donator requested that PI request permission to use in study,4/4/17,33.161,-119.1929,San Nicolas Basin,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+185488,Greg Schorr,Donator requested that PI request permission to use in study,4/4/17,33.161,-119.1929,San Nicolas Basin,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+26642,STRANDING COORDINATOR ,,2/6/02,33.366666,-117.566666,SAN ONOFRE STATE BEACH,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,2,"3,3","11, NA",,"3,3"
+11204,Michelle Berman,,8/11/98,34.416666,-119.666666,SANTA BARBARA,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,"4,3","20, NA",,3
+117772,Barbie Halaska,,10/18/13,NA,NA,SEASIDE,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,,,,,,3
+94804,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,6/24/10,33.083333,-118.65,SoCAL offshore,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,1,"4,3","0, 168.06",,3
+191009,Greg Schorr,Donator requested that PI request permission to use in study,3/30/18,32.8525,-119.0184,"Southern California, SCORE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+191167,Greg Schorr,Donator requested that PI request permission to use in study,5/28/18,32.9236,-118.9167,"Southern California, SCORE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+191168,Greg Schorr,Donator requested that PI request permission to use in study,5/28/18,32.9798,-118.9329,"Southern California, SCORE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+191169,Greg Schorr,Donator requested that PI request permission to use in study,5/28/18,32.9798,-118.9329,"Southern California, SCORE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+191166,Greg Schorr,Donator requested that PI request permission to use in study,5/27/18,33.0026,-118.5276,"Southern California, SCORE",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+178021,CYNTHIA REYES,,10/8/13,34.075984,-119.023675,Thornhill Broom Beach,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,,,,3
+196960,JORGE VELEZ-JUARBE,Donator requested that PI request permission to use in study,3/27/13,33.810833,-118.3925,Torrance Beach,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+125946,DAVE WELLER,Donator requested that PI request permission to use in study,10/14/10,32.9,-117.283333,"Torrey Pines SB South, 3 km from Shore",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+125947,DAVE WELLER,Donator requested that PI request permission to use in study,10/14/10,32.9,-117.283333,"Torrey Pines SB South, 3 km from Shore",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+125948,DAVE WELLER,Donator requested that PI request permission to use in study,10/14/10,32.9,-117.283333,"Torrey Pines SB South, 3 km from Shore",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+62,STRANDING COORDINATOR ,,4/16/90,32.916666,-117.25,TORREY PINES STATE BEACH,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"2,3","20, NA",,"3,3"
+173980,STRANDING COORDINATOR ,,1/21/16,32.68725,-117.213138,White Beach,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,"3,3"
+157455,STRANDING COORDINATOR ,,4/9/15,33.240746,-117.424777,WHITE BEACH,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,"3,3,3"
+146464,Eric Otjen,,12/13/14,33.718447,-118.32271,"White Point, Royal Palms Beach",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,"3,3,3"
+6963,Barbie Halaska,,3/27/97,36.966666,-122.083333,WILDER RANCH,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,"4,3",,,3
+41843,TOM JEFFERSON,,9/15/04,36.8,-122,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,1,3,,,3
+41844,TOM JEFFERSON,,9/15/04,36.8,-122,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,2,3,,,3
+41845,TOM JEFFERSON,,9/15/04,36.8,-121.983333,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,3,3,,,3
+191406,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,6/15/18,33.5173,-118.4481,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,2,12.09,,3
+209902,Kerri Danil,,12/12/21,32.638333,-118.403333,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,3,,,3
+61948,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,8/11/06,33.183333,-118.233333,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,,,,3
+41846,TOM JEFFERSON,,9/15/04,36.8,-121.983333,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,1,,,3
+41850,TOM JEFFERSON,,9/18/04,36.766666,-122.133333,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,3,,,3
+41842,TOM JEFFERSON,,9/15/04,36.783333,-121.983333,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,3,,,3
+41847,TOM JEFFERSON,,9/15/04,36.8,-121.983333,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,3,,3,,,3
+101851,Barbie Halaska,,9/15/10,NA,NA,,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,,,3,,,3
+73679,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",12/24/07,18.183333,-160.716666,"CENTRAL PACIFIC, SW OF HAWAIIAN ISLANDS",,HAWAII,UNITED STATES OF AMERICA,North Pacific,CNP,CNP2,1,3,,,3
+74706,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",3/28/08,30.166666,-164.866666,NORTH OF HAWAIIAN ISLANDS,,HAWAII,UNITED STATES OF AMERICA,North Pacific,CNP,CNP1,,3,,,3
+62830,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",2/21/07,30.983333,-159.016666,NORTH OF THE ISLANDS,,HAWAII,UNITED STATES OF AMERICA,North Pacific,CNP,CNP1,,3,,,"3,3"
+78761,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",11/10/08,38.033333,-146.366666,NORTH OF THE ISLANDS,,HAWAII,UNITED STATES OF AMERICA,North Pacific,CNP,CNP1,,3,,,3
+53476,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",1/17/06,32.316666,-157.366666,NORTH OF THE ISLANDS,,HAWAII,UNITED STATES OF AMERICA,North Pacific,CNP,CNP1,,"0,4,4,3",,,3
+1877,Kerri Danil,,9/16/93,44.4,-127,OFFSHORE,,Oregon,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,7,2,"4,0","11, NA",,3
+25435,JAY BARLOW,,9/21/01,43.016666,-124.583333,WEST COAST,,Oregon,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,7,1,"3,2","18, NA",,3
+51130,KARIN FORNEY,"No external permission needed, but donator requests notification when used.",8/17/05,44.983333,-124.383333,WEST COAST,,Oregon,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,7,3,4,,,3
+51127,KARIN FORNEY,"No external permission needed, but donator requests notification when used.",8/17/05,44.983333,-124.383333,WEST COAST,,Oregon,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,7,,"3,0",,,3
+51129,KARIN FORNEY,"No external permission needed, but donator requests notification when used.",8/17/05,44.983333,-124.383333,WEST COAST,,Oregon,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,7,,"3,2",,,3
+51128,KARIN FORNEY,"No external permission needed, but donator requests notification when used.",8/17/05,44.983333,-124.383333,WEST COAST,,Oregon,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,7,,"4,2",,,3
+183506,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,3/25/15,48.5888,-122.4313,Bow,,WASHINGTON,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,8,,,,,3
+61944,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,7/30/06,47.3,-124.75,,,WASHINGTON,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,8,1,3,,,3
+61945,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,7/30/06,47.3,-124.75,,,WASHINGTON,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,8,2,3,,,3
+26307,JAY BARLOW,,11/9/01,34.016666,-119.366666,WEST COAST,,,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,2,"3,3","10, NA",,3
+26308,JAY BARLOW,,11/9/01,34.016666,-119.366666,WEST COAST,,,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,3,"3,0","20, NA",,3
+76971,JAY BARLOW,,11/30/08,32.966666,-118.016666,WEST COAST,,,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,1,,"3,3",,,3
+26306,JAY BARLOW,,11/9/01,34.016666,-119.366666,WEST COAST,,,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,0,,,3
+26309,JAY BARLOW,,11/9/01,34.016666,-119.366666,WEST COAST,,,UNITED STATES OF AMERICA,North Pacific,CA/OR/WA,2,,"2,0","10, NA",,3
+125653,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",2/3/11,33.383333,-137.866666,NORTH EASTERN PACIFIC OCEAN,,,,North Pacific,CNP,CNP1,1,3,,,2
+93900,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",4/13/10,31.4,-142.2,NORTH EASTERN PACIFIC OCEAN,,,,North Pacific,CNP,CNP1,2,3,,,3
+125652,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",2/3/11,31.283333,-142.683333,NORTH EASTERN PACIFIC OCEAN,,,,North Pacific,CNP,CNP1,3,3,,,3
+114346,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",1/25/13,34.701667,-138.419167,NORTH EASTERN PACIFIC OCEAN,,,,North Pacific,CNP,CNP1,,,,,3
+133286,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,9/20/11,33.516666,-118.55,,,,,North Pacific,CA/OR/WA,1,,2,,,3
+133289,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,9/24/11,33.516666,-119.233333,,,,,North Pacific,CA/OR/WA,1,,2,,,3
+133292,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,9/26/11,33.583333,-118.45,,,,,North Pacific,CA/OR/WA,1,,2,,,3
+133293,JOHN CALAMBOKIDIS,Donator requested that PI request permission to use in study,9/30/11,33.916666,-119.666666,,,,,North Pacific,CA/OR/WA,1,,2,,,3
+92270,,,2/13/76,-4.05,-90.266666,ATLANTIC OCEAN,,,,South Pacific,,,,,,,3
+13876,Robert Brownell,Donator requested that PI request permission to use in study,??/??/1999,NA,NA,,,,,Unknown,,,,2,,,3
+13860,Robert Brownell,Donator requested that PI request permission to use in study,??/??/1999,NA,NA,,,,,Unknown,,,,3,,,3
+542,Darrin Lunde,Donator requested that PI request permission to use in study,??/??/????,NA,NA,,,,,Unknown,,,,4,700,,3
+7629,Robert Brownell,Donator requested that PI request permission to use in study,??/??/1997,NA,NA,,,,,Unknown,,,,"4,4,3","NA, NA, 640",,3

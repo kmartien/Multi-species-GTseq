@@ -1,0 +1,121 @@
+﻿Feresa_archive_dump_4June2024_LabID,T_ID,dbo_vw_Tissue_Vial_LabID,Vial_Num,Tissue_Type,Preservative,TQuant,TQuant_Description,TLeft,BQuant,Tissue_Location,Container_Type_Name,Vial_Type_Name,Container_Num,Rack,Box,Container_Row,Container_Column,CellStatus,CheckedOut,Checked_Out_By,Checked_Out_For,Comments,Accession_Date,EditDate,Edit_User,RecordCreationDate
+35856,37255,35856,1,Skin,"DMSO, saturated salt solution",1,Enough tissue for 1 extraction,Y,0,-20 Walk In Freezer,Flat,2 ml,149,,,B,6,1,N,,,,3/3/08,3/20/24,Alaina Harmon,3/3/08
+48079,51562,48079,1,Teeth,"Skin, bone, or other tissue stored without preservative",3,Enough tissue for 3 or more extractions,Y,0,Ancient DNA Lab,Cardboard Box,2 ml,6,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+48132,51614,48132,1,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,181,,,E,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+55171,64476,55171,1,Skin,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,6,109,F,4,1,N,,,,3/3/08,2/8/24,Alaina Harmon,3/3/08
+2605,2743,2605,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,19,,,I,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+3944,4041,3944,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,26,,,J,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+5747,5891,5747,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,37,,,H,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+5749,5893,5749,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,37,,,H,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9549,9342,9549,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml plastic,56,,,G,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9550,9343,9550,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml plastic,56,,,G,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9551,9344,9551,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml plastic,56,,,G,10,1,N,,,,3/3/08,3/20/24,Alaina Harmon,3/3/08
+9552,9345,9552,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml plastic,56,,,G,10,1,N,,,,3/3/08,3/20/24,Alaina Harmon,3/3/08
+9853,9651,9853,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,58,,,I,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11707,11592,11707,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,65,,,J,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11707,79147,11707,1,Blubber,Frozen; no preservative,0,No tissue,Y,2,-20 Walk In Freezer,Flat,20 ml glass,281,,,I,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11708,11593,11708,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,65,,,J,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11708,79148,11708,1,Blubber,Frozen; no preservative,0,No tissue,Y,1,-20 Walk In Freezer,Flat,20 ml glass,281,,,I,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11709,11594,11709,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,65,,,J,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11709,79149,11709,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-20 Walk In Freezer,Flat,20 ml glass,281,,,I,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11710,11595,11710,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,65,,,J,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11710,79150,11710,1,Skin & Blubber,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,1,-20 Walk In Freezer,Flat,20 ml glass,281,,,J,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11711,11596,11711,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,65,,,J,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11711,79151,11711,1,Blubber,Frozen; no preservative,0,No tissue,Y,2,-20 Walk In Freezer,Flat,20 ml glass,281,,,J,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+18132,18016,18132,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,89,,,H,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+18133,18017,18133,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,89,,,H,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+18134,18018,18134,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,89,,,H,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+18135,18019,18135,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,89,,,H,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+18136,18020,18136,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,89,,,H,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+18137,18021,18137,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,89,,,H,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+30074,31306,30074,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,126,,,H,8,1,N,,,Sample previously marked as used up but vial found by B.Hanser on 2/5/2020.,3/3/08,3/20/24,Alaina Harmon,3/3/08
+30074,31307,30074,2,Skin,"DMSO, saturated salt solution",0,No tissue,N,0,-20 Walk In Freezer,Flat,2 ml,,,,,,-1,N,,,Sample used up per KMR 10/10/12.,3/3/08,2/25/20,Dan Prosperi,3/3/08
+30075,31308,30075,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,126,,,H,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+30076,31309,30076,1,Skin,"DMSO, saturated salt solution",1,Enough tissue for 1 extraction,Y,0,-20 Walk In Freezer,Flat,2 ml,126,,,H,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+35855,37254,35855,1,Skin,"DMSO, saturated salt solution",1,Enough tissue for 1 extraction,Y,0,-20 Walk In Freezer,Flat,2 ml,149,,,B,6,1,N,,,,3/3/08,3/20/24,Alaina Harmon,3/3/08
+185069,223718,185069,1,Kidney,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,13,244,B,8,1,N,,,"Homogenized sample received from NIST, NMMTB (subsample).",6/14/17,2/25/20,Dan Prosperi,6/14/17
+185069,223719,185069,2,Kidney,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,Small Plastic Bin,other,,20,399,A,4,1,N,,,"Homogenized sample received from NIST, NMMTB (Storage ID: NM18K1078C, 6.3948g). Subsample taken from this piece and kept at -80C in a 2ml vial. Original sample kept in F6 -80C freezer (bin).",6/14/17,11/3/22,Alaina Harmon,6/14/17
+198380,238764,198380,1,"Skin, Blubber & Muscle",Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,441,,,I,7,1,N,,,"Tissue type identified as skin, blubber, and muscle during extraction.",8/22/19,12/15/20,Alaina Harmon,8/22/19
+198381,238765,198381,1,"Skin, Blubber & Muscle",Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,441,,,I,7,1,N,,,"Tissue type identified as skin, blubber, and muscle during extraction.",8/22/19,12/15/20,Alaina Harmon,8/22/19
+198382,238766,198382,1,"Skin, Blubber & Muscle",Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,441,,,I,8,1,N,,,"Tissue type identified as skin, blubber, and muscle during extraction.",8/22/19,12/15/20,Alaina Harmon,8/22/19
+198383,238767,198383,1,"Skin, Blubber & Muscle",Ethanol,2,Enough tissue for 2 extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,441,,,I,8,1,N,,,"Tissue type identified as skin, blubber, and muscle during extraction.",8/22/19,12/15/20,Alaina Harmon,8/22/19
+198384,238768,198384,1,Skin,Ethanol,2,Enough tissue for 2 extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,441,,,I,8,1,N,,,,8/22/19,11/20/20,Alaina Harmon,8/22/19
+198385,238769,198385,1,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,441,,,I,8,1,N,,,,8/22/19,11/20/20,Alaina Harmon,8/22/19
+198386,238770,198386,1,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,441,,,I,9,1,N,,,,8/22/19,11/20/20,Alaina Harmon,8/22/19
+198468,238863,198468,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,26,,,,,1,N,,,,9/20/19,11/20/20,Alaina Harmon,9/20/19
+198469,238864,198469,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,26,,,,,1,N,,,,9/20/19,11/20/20,Alaina Harmon,9/20/19
+198470,238865,198470,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,26,,,,,1,N,,,,9/20/19,11/20/20,Alaina Harmon,9/20/19
+198471,238866,198471,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,26,,,,,1,N,,,,9/20/19,11/20/20,Alaina Harmon,9/20/19
+198472,238867,198472,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,26,,,,,1,N,,,,9/20/19,11/20/20,Alaina Harmon,9/20/19
+214427,256021,214427,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,2,30,F,1,1,N,,,,3/15/23,9/29/23,Alaina Harmon,3/15/23
+216954,259436,216954,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,,126,E,6,1,N,,,,2/22/24,2/22/24,Alaina Harmon,2/22/24
+216955,259437,216955,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,,126,E,7,1,N,,,,2/22/24,2/22/24,Alaina Harmon,2/22/24
+216956,259438,216956,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,,126,E,9,1,N,,,,2/22/24,2/22/24,Alaina Harmon,2/22/24
+55172,64477,55172,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,6,109,F,5,1,N,,,,3/3/08,2/8/24,Alaina Harmon,3/3/08
+55173,64478,55173,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,6,109,F,6,1,N,,,,3/3/08,2/8/24,Alaina Harmon,3/3/08
+61433,78380,61433,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,6,118,E,1,1,N,,,,3/3/08,2/8/24,Alaina Harmon,3/3/08
+61434,78381,61434,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,6,118,E,2,1,N,,,,3/3/08,2/8/24,Alaina Harmon,3/3/08
+61441,78388,61441,1,Skin,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,6,118,E,9,1,N,,,,3/3/08,2/8/24,Alaina Harmon,3/3/08
+61925,81181,61925,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,6,118,H,1,1,N,,,,3/3/08,2/8/24,Alaina Harmon,3/3/08
+67090,90585,67090,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,7,132,F,3,1,N,,,,3/3/08,2/8/24,Alaina Harmon,3/3/08
+70977,96307,70977,1,Skin & Blubber,Frozen; no preservative,0,No tissue,N,0,-20 Walk In Freezer,Flat,20 ml plastic,253,,,F,3,-1,N,,,Sample used up per KMR 5/11/2012,3/3/08,2/25/20,Dan Prosperi,3/3/08
+71014,96344,71014,1,Skin,Frozen; no preservative,0,No tissue,N,0,-80 Upright Freezer F4,CryoBox,2 ml,,7,137,A,7,-1,N,,,Tissue used up per K.Robertson,3/3/08,2/25/20,Dan Prosperi,3/3/08
+78825,106295,78825,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,8,144,F,7,1,N,,,,6/30/09,2/25/20,Dan Prosperi,6/30/09
+94817,125751,94817,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,9,169,F,2,1,N,,,,8/19/10,2/25/20,Dan Prosperi,8/19/10
+102488,133398,102488,1,Skin,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,9,175,D,2,1,N,,,,11/11/10,2/8/24,Alaina Harmon,11/11/10
+102489,133399,102489,1,Skin,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,9,175,D,3,1,N,,,,11/11/10,2/8/24,Alaina Harmon,11/11/10
+102490,133400,102490,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,9,175,D,4,1,N,,,,11/11/10,2/8/24,Alaina Harmon,11/11/10
+114347,158881,114347,1,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml glass,373,,,C,5,1,N,,,,4/5/13,2/25/20,Dan Prosperi,4/5/13
+116522,161567,116522,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,,7/30/13,7/30/13,Gabriela Serra-Valente,7/30/13
+116523,161568,116523,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,,7/30/13,7/30/13,Gabriela Serra-Valente,7/30/13
+116524,161569,116524,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,,7/30/13,7/30/13,Gabriela Serra-Valente,7/30/13
+116525,161570,116525,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,,7/30/13,7/30/13,Gabriela Serra-Valente,7/30/13
+116526,161571,116526,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,,7/30/13,7/30/13,Gabriela Serra-Valente,7/30/13
+116527,161572,116527,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,,7/30/13,7/30/13,Gabriela Serra-Valente,7/30/13
+116528,161573,116528,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,,7/30/13,7/30/13,Gabriela Serra-Valente,7/30/13
+116823,161979,116823,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,11,210,A,3,1,N,,,,9/17/13,2/25/20,Dan Prosperi,9/17/13
+116824,161980,116824,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,11,210,A,4,1,N,,,,9/17/13,2/25/20,Dan Prosperi,9/17/13
+116825,161981,116825,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,11,210,A,5,1,N,,,Possibly empty vial,9/17/13,2/8/24,Alaina Harmon,9/17/13
+116826,161982,116826,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,11,210,A,6,1,N,,,,9/17/13,2/25/20,Dan Prosperi,9/17/13
+123244,134405,123244,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,9,176,H,5,1,N,,,,12/22/10,2/25/20,Dan Prosperi,12/22/10
+123244,134406,123244,2,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,352,,,H,1,1,N,,,,12/22/10,2/25/20,Dan Prosperi,12/22/10
+123336,134503,123336,1,Skin,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,9,177,B,3,1,N,,,,12/23/10,2/8/24,Alaina Harmon,12/23/10
+123337,134504,123337,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,177,B,4,1,N,,,,12/23/10,2/25/20,Dan Prosperi,12/23/10
+123338,134505,123338,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,177,B,5,1,N,,,,12/23/10,2/8/24,Alaina Harmon,12/23/10
+145402,179971,145402,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,11,220,H,8,1,N,,,,1/5/15,2/25/20,Dan Prosperi,1/5/15
+145403,179972,145403,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,11,220,H,9,1,N,,,,1/5/15,2/25/20,Dan Prosperi,1/5/15
+157684,193150,157684,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,223,H,9,1,N,,,,7/20/15,2/2/22,Alaina Harmon,7/20/15
+159696,195475,159696,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159696,243388,159696,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159697,195476,159697,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159697,243389,159697,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159698,195477,159698,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC. NRDA sample.",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159698,243390,159698,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC. NRDA sample.",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159699,195478,159699,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159699,243391,159699,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159700,195479,159700,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159700,243392,159700,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159701,195480,159701,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC. NRDA sample.",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159701,243393,159701,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC. NRDA sample.",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159702,195481,159702,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159702,243394,159702,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159703,195482,159703,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159703,243395,159703,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159704,195483,159704,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159704,243396,159704,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159705,195484,159705,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159705,243397,159705,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159706,195485,159706,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159706,243398,159706,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159707,195486,159707,1,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"DNA provided by P. Rosel's lab, SEFSC. NRDA sample.",11/5/15,11/5/15,Gabriela Serra-Valente,11/5/15
+159707,243399,159707,2,Genomic DNA,,0,No tissue,N,0,,,,,,,,,,N,,,"Extra vial of DNA provided by P. Rosel's lab, SEFSC. NRDA sample.",3/3/20,3/3/20,Gabriela Serra-Valente,3/3/20
+159764,195544,159764,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,226,A,7,1,N,,,,11/10/15,2/2/22,Alaina Harmon,11/10/15
+159989,195768,159989,1,Skin,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,12,226,D,1,1,N,,,,11/19/15,2/2/22,Alaina Harmon,11/19/15
+173621,210445,173621,1,Muscle,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,414,,,E,10,1,N,,,,4/27/16,2/25/20,Dan Prosperi,4/27/16
+174714,211809,174714,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,25,,,,,1,N,,,,7/25/16,2/25/20,Dan Prosperi,7/25/16
+174715,211810,174715,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,25,,,,,1,N,,,,7/25/16,2/25/20,Dan Prosperi,7/25/16
+175869,213147,175869,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,234,B,7,1,N,,,,10/27/16,2/25/20,Dan Prosperi,10/27/16
+185067,223714,185067,1,Kidney,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,13,244,B,6,1,N,,,"Homogenized sample received from NIST, NMMTB (subsample).",6/14/17,2/8/24,Alaina Harmon,6/14/17
+185067,223715,185067,2,Kidney,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,Small Plastic Bin,other,,20,399,A,2,1,N,,,"Homogenized sample received from NIST, NMMTB (Storage ID: NM18K1072C, 6.2176g). Subsample taken from this piece and kept at -80C in a 2ml vial. Original sample kept in F6 -80C freezer (bin).",6/14/17,2/8/24,Alaina Harmon,6/14/17
+185068,223716,185068,1,Kidney,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,13,244,B,7,1,N,,,"Homogenized sample received from NIST, NMMTB (subsample).",6/14/17,2/25/20,Dan Prosperi,6/14/17
+185068,223717,185068,2,Kidney,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,Small Plastic Bin,other,,20,399,A,3,1,N,,,"Homogenized sample received from NIST, NMMTB (Storage ID: NM18K1075C, 6.2286g). Subsample taken from this piece and kept at -80C in a 2ml vial. Original sample kept in F6 -80C freezer (bin).",6/14/17,11/3/22,Alaina Harmon,6/14/17

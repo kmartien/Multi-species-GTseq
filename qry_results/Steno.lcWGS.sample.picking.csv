@@ -1,0 +1,355 @@
+LABID,CONTACT_NAME,Restrict_Description,Date_Collected,Latitude.x,Longitude.x,Location.x,Island,State,Country.x,Ocean_Basin,Field.ID,Location.y,Tissue.type,lab.sex,dlp.haplotype,Hap.Code,Microsats..done.,,category,Rank,DQuant,concentration,dna.comments,TQuant
+9855,CHARLES ANDERSON,,4/4/98,6.983333,73.183333,,,,MALDIVES,Indian Ocean,GIR980404.03,Maldives,,female,IND1,IND1,yes,IO,IO,1,"2,3,3","149.25, 494.6, 581.71",,3
+79909,DANIELLE KREB,Donator requested that PI request permission to use in study,4/3/08,2.216666,118.483333,BERAU ARCHIPELAGO,,,INDONESIA,Indian Ocean,NA,NA,NA,NA,NA,NA,NA,IO,IO,,2,,,3
+11192,DAN ODELL,,12/14/97,29.766666,-85.4,PORT ST. JOE,,FLORIDA,UNITED STATES OF AMERICA,North Atlantic,GWSB9724,"USA, FL, GULF CO., PORT ST. JOE",,Female,ATL7,ATL7,yes,ATL,Atl1,1,"0,3",,,3
+11193,DAN ODELL,,12/14/97,29.766666,-85.4,PORT ST. JOE,,FLORIDA,UNITED STATES OF AMERICA,North Atlantic,GWSB9725,"USA, FL, GULF CO., PORT ST. JOE",,Male,ATL8,ATL8,yes,ATL,Atl2,1,"3,0","NA, 61",,3
+460,Darrin Lunde,"No tissue left, loaner DNA is available",10/15/76,36.433333,-76.016666,,,NORTH CAROLINA,UNITED STATES OF AMERICA,North Atlantic,CWP0062/USNM504498,"USA, NC",stranding,Male,ATL1,ATL1,yes,ATL,Atl1,2,4,155.33,,0
+461,Darrin Lunde,Donator requested that PI request permission to use in study,10/15/76,36.433333,-76.016666,,,NORTH CAROLINA,UNITED STATES OF AMERICA,North Atlantic,CWP0064/USNM504499,"USA, NC",stranding,Male,ATL1,ATL1,yes,ATL,,,2,117.49,,3
+457,Darrin Lunde,Donator requested that PI request permission to use in study,10/12/76,36.616666,-76.066666,,,VIRGINIA,UNITED STATES OF AMERICA,North Atlantic,JGM0192/USNM504486,"USA, VA",stranding,Male,ATL1,ATL1,yes,ATL,Atl1,3,3,,,3
+459,Darrin Lunde,Donator requested that PI request permission to use in study,10/12/76,36.733333,-75.933333,VIRGINIA BEACH,,VIRGINIA,UNITED STATES OF AMERICA,North Atlantic,USNM504488,"USA, VA, VIRGINIA BEACH",stranding,Male,ATL1,ATL1,yes,ATL,Atl2,2,4,540,,3
+458,Darrin Lunde,Donator requested that PI request permission to use in study,10/12/76,36.733333,-75.933333,VIRGINIA BEACH,,VIRGINIA,UNITED STATES OF AMERICA,North Atlantic,USNM504487,"USA, VA, VIRGINIA BEACH",stranding,Male,ATL1,ATL1,yes,ATL,Atl2,3,3,,,3
+137278,DIANE CLARIDGE,Donator requested that PI request permission to use in study,5/1/13,24.5046,-77.4766,North Andros,Andros Island,,BAHAMAS,North Atlantic,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,"3,0"
+137279,DIANE CLARIDGE,Donator requested that PI request permission to use in study,5/1/13,24.4914,-77.4962,North Andros,Andros Island,,BAHAMAS,North Atlantic,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,"3,0"
+1725,WAYNE HOGGARD,,5/29/93,27.816666,-93,GULF OF MEXICO,,,UNITED STATES OF AMERICA,North Atlantic,ORII930529.02,GULF OF MEXICO,Stranding,?,ATL10,ATL10,yes,ATL,,,3,,,2
+48138,ANTONIO MIGNUCCI-GIANNONI,Donator requested that PI request permission to use in study,1/30/03,17.983333,-66.333333,SALINAS,,,PUERTO RICO,North Atlantic,NEPST857,"USA, PUERTO RICO, SALINAS",,Female,ATL2,ATL2,yes,ATL,,,0,,,3
+48139,ANTONIO MIGNUCCI-GIANNONI,Donator requested that PI request permission to use in study,3/30/03,18,-65.816666,ARROYO,,,PUERTO RICO,North Atlantic,NEPST859,"USA, PUERTO RICO, ARROYO",,Female,ATL2,ATL2,yes,ATL,,,"0,3,3","NA, 289.38, 124.16",,"3,3"
+48059,ANTONIO MIGNUCCI-GIANNONI,Donator requested that PI request permission to use in study,9/15/98,NA,NA,SPAANS LAGOENWEG,,,ARUBA,North Atlantic,NEPST 552,"ARUBA, SPAANS LAGOENWEG",,female,ATL3,ATL3,yes,ATL,,,"0,2,2","NA, 31.13, 8.45",,3
+134000,DIANE CLARIDGE,Donator requested that PI request permission to use in study,6/15/11,25.183333,-77.45,New Providence,,,BAHAMAS,North Atlantic,,Bahamas,,Female,ATL9,ATL9,yes,ATL,,,0,,,2
+112723,DIANE CLARIDGE,Donator requested that PI request permission to use in study,5/20/12,25.9433,-77.389,S Abaco,,,BAHAMAS,North Atlantic,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,1
+112724,DIANE CLARIDGE,Donator requested that PI request permission to use in study,5/20/12,25.9473,-77.3873,S Abaco,,,BAHAMAS,North Atlantic,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,"3,3"
+112725,DIANE CLARIDGE,Donator requested that PI request permission to use in study,5/20/12,25.9537,-77.3892,S Abaco,,,BAHAMAS,North Atlantic,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,1
+134006,DIANE CLARIDGE,Donator requested that PI request permission to use in study,7/8/01,25.883333,-77.3,South Abaco,,,BAHAMAS,North Atlantic,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,3
+134007,DIANE CLARIDGE,Donator requested that PI request permission to use in study,7/8/01,25.883333,-77.3,South Abaco,,,BAHAMAS,North Atlantic,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,3
+48070,ANTONIO MIGNUCCI-GIANNONI,Donator requested that PI request permission to use in study,4/8/94,NA,NA,JUAN DE ACOSTA,,,PUERTO RICO,North Atlantic,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,3
+137,LISA Ballance,,5/20/91,28,-91.266666,GULF OF CALIFORNIA,,,MEXICO,North Atlantic,DSJ910520.01,"MEXICO, GULF OF CALIFORNIA",,?,?,,no,ATL,,,"2,4","NA, 400",,0
+10936,Barbie Halaska,,10/1/98,37.916666,-122.666666,BOLINAS LAGOON,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,C86,Marin County CA,,Male,PAC17,PAC17,yes,CA/OR/WA,CA/OR/WA,1,"2,3,3","0, 838.27, 410.54",,"3,3"
+13304,Barbie Halaska,,7/6/99,35.133333,-120.633333,"SAN LUIS OBISPO, PISMO BEACH",,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,C96,"USA, CA, SAN LUIS OBISPO",,?,PAC18,PAC18,no,CA/OR/WA,CA/OR/WA,2,"0,3,3","NA, 1210.4, 344.01",,"3,3,3"
+14206,Barbie Halaska,,7/5/99,NA,NA,SAN LUIS OBISPO,,CALIFORNIA,UNITED STATES OF AMERICA,North Pacific,C96,"USA, CA, SAN LUIS OBISPO",,?,?,,no,CA/OR/WA,,,1,,,"3,3,2"
+113659,ROBIN BAIRD,Donator requested that PI request permission to use in study,12/18/12,20.80201,-157.10675,,Lanai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,4Islands,,,,,,3
+187688,JAY BARLOW,,9/3/17,20.96283,-157.2305,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,4Islands,4Islands1,1,4,36.78,,3
+187731,JAY BARLOW,,10/9/17,21.03004,-157.17077,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,4Islands,4Islands1,2,3,33.97,,3
+187730,JAY BARLOW,,10/9/17,21.03044,-157.1732,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,4Islands,4Islands2,1,3,51.17,,3
+187689,JAY BARLOW,,9/3/17,20.95883,-157.2313,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,4Islands,4Islands2,2,3,11.78,,3
+187729,JAY BARLOW,,10/9/17,21.03352,-157.17387,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,4Islands,4Islands2,3,3,6.6,,3
+35858,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/13/03,19.4,-156.066666,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB131003.B01,"USA, HI, BIG IS.",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,2
+70966,KRISTI WEST,Donator requested that PI request permission to use in study,7/12/00,NA,NA,PUAKO,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,15351,"USA, HI, HAWAII IS., PUAKO",,male,HI_10,HI_10,yes,BigIs,HIBig4,2,"0,3,3",,,3
+175246,ERIN OLESON,Donator requested that PI request permission to use in study,7/1/16,19.377089,-156.00191,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+175245,ERIN OLESON,Donator requested that PI request permission to use in study,7/1/16,19.388609,-155.9992,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+45910,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/3/04,19.116666,-155.916666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB031004.01,"USA, HI",,Female,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,3
+75671,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/20/08,19.166666,-155.95,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008JUL20.07,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,1
+75669,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/20/08,19.183333,-155.966666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008JUL20.05,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,1
+45988,ROBIN BAIRD,Donator requested that PI request permission to use in study,1/30/05,19.366666,-155.983333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB301104.01,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,1
+45908,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/2/04,19.483333,-156.05,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB021004.02,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,2
+45953,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/21/04,19.516666,-156.016666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB211104.01,"USA, HI",,Female,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,3
+45953,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/21/04,19.516666,-156.016666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Hawaii,,female,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,3
+45954,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/21/04,19.516666,-156.016666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB211104.02,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,1
+80009,ROBIN BAIRD,Donator requested that PI request permission to use in study,5/1/09,19.516666,-156.2,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009MAY01.03,"USA, HAWAII",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,3
+45951,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/20/04,19.566666,-156.083333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB200904.02,"USA, HI",,Female,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,3
+45984,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/27/04,19.6,-156.066666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB271104.01,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,3
+45990,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/30/04,19.616666,-156.1,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB301104.03,"USA, HI",,Male,HI_01,H,,BigIs,Hap GHIJ,,0,,,3
+75659,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/15/08,19.766666,-156.133333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008JUL15.01,"USA, HI",,female,HI_01,H,yes,BigIs,Hap GHIJ,,0,,,1
+88603,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/29/09,19.116666,-155.983333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009OCT29.04,,,male,HI_01,H,yes,BigIs,Hap GHIJ,,1,,,2
+88600,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/29/09,19.15,-155.966666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009OCT29.01,,,female,HI_01,H,yes,BigIs,Hap GHIJ,,1,,,3
+75670,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/20/08,19.166666,-155.95,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008JUL20.06,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,2,,,2
+45923,ROBIN BAIRD,Donator requested that PI request permission to use in study,12/7/04,19.666666,-156.1,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB071204.01,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,2,,,2
+45961,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/22/04,19.766666,-156.3,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB220904.02,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,2,,,2
+49031,JAY BARLOW,,8/7/05,19.116666,-156.2,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,MAC050807.10,"USA, HI",,Female,HI_01,H,yes,BigIs,Hap GHIJ,,"0,0",,,3
+49032,JAY BARLOW,,8/7/05,19.116666,-156.2,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,MAC050807.11,"USA, HI",,Male,HI_01,H,yes,BigIs,Hap GHIJ,,"0,0",,,3
+61923,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/23/06,19.433333,-155.966666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2006JUL23.01,"USA, HI, ",,?,HI_01,H,yes,BigIs,Hap GHIJ,,"0,0",,,1
+61935,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/25/06,19.433333,-156.1,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2006JUL25.02,"USA, HI, ",,female,HI_01,H,yes,BigIs,Hap GHIJ,,"0,0",,,3
+61934,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/25/06,19.45,-156.083333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2006JUL25.01,"USA, HI, ",,male,HI_01,H,yes,BigIs,Hap GHIJ,,"0,0",,,3
+80010,ROBIN BAIRD,Donator requested that PI request permission to use in study,5/4/09,19.75,-156.116666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009MAY04.02,"USA, HAWAII",,Female,HI_01,H,yes,BigIs,Hap GHIJ,,"0,1,1",,,3
+45907,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/2/04,19.483333,-156.033333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB021004.01,"USA, HI",,Male,HI_02,I,yes,BigIs,Hap GHIJ1,,0,,,1
+45950,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/20/04,19.583333,-156.083333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB200904.01,"USA, HI",,Male,HI_02,I,yes,BigIs,Hap GHIJ1,,0,,,3
+88602,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/29/09,19.133333,-155.966666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009OCT29.03,,,male,HI_02,I,yes,BigIs,Hap GHIJ1,,1,,,3
+88613,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/31/09,19.233333,-156,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009OCT31.03,,,male,HI_02,I,yes,BigIs,Hap GHIJ1,,1,,,3
+45969,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/22/04,19.383333,-156,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB221104.02,"USA, HI",,Male,HI_02,I,yes,BigIs,Hap GHIJ1,,2,,,3
+45972,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/22/04,19.383333,-156,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB221104.05,"USA, HI",,Male,HI_02,I,yes,BigIs,Hap GHIJ1,,2,,,3
+45936,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/17/04,19.666666,-156.25,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB170904.01,"USA, HI",,Female,HI_02,I,yes,BigIs,Hap GHIJ1,,2,,,2
+45967,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/22/04,19.7,-156.4,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB220904.08,"USA, HI",,Female,HI_02,I,yes,BigIs,Hap GHIJ1,,2,,,3
+79995,ROBIN BAIRD,Donator requested that PI request permission to use in study,4/26/09,19.916666,-156.033333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009APR26.01,"USA, HAWAII",,female,HI_02,I,yes,BigIs,Hap GHIJ1,,2,,,3
+79995,ROBIN BAIRD,Donator requested that PI request permission to use in study,4/26/09,19.916666,-156.033333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Hawaii,,female,HI_02,I,yes,BigIs,Hap GHIJ1,,2,,,3
+79996,ROBIN BAIRD,Donator requested that PI request permission to use in study,4/26/09,19.916666,-156.033333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009APR26.02,"USA, HAWAII",,Male,HI_02,I,yes,BigIs,Hap GHIJ1,,2,,,3
+79997,ROBIN BAIRD,Donator requested that PI request permission to use in study,4/26/09,19.916666,-156.033333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009APR26.03,"USA, HAWAII",,Female,HI_01,I,yes,BigIs,Hap GHIJ1,,2,,,3
+78744,ROBIN BAIRD,Donator requested that PI request permission to use in study,12/4/08,19.666666,-156.15,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008DEC04.01,"USA, HAWAII",,male,HI_01,H,yes,BigIs,HIBig1,1,"0,3,3",,,3
+61447,ROBIN BAIRD,Donator requested that PI request permission to use in study,12/9/06,19.65,-156.133333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2006DEC09.01,"USA, HI, ",,?,HI_01,H,yes,BigIs,HIBig1,2,"0,3",,,2
+79981,ROBIN BAIRD,Donator requested that PI request permission to use in study,5/6/08,19.3,-155.966666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008MAY06.04,"USA, HAWAII",,male,HI_01,H,yes,BigIs,HIBig1,3,2,,,3
+75672,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/20/08,19.15,-155.966666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008JUL20.08,"USA, HI",,Male,HI_03,B,yes,BigIs,HIBig2,1,"0,3,3",,,3
+78759,ROBIN BAIRD,Donator requested that PI request permission to use in study,12/15/08,20.183333,-156.033333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008DEC15.02,"USA, HAWAII",,female,HI_03,B,yes,BigIs,HIBig2,,0,,,3
+88601,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/29/09,19.133333,-155.966666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009OCT29.05,,,male,HI_03,B,yes,BigIs,HIBig2,,1,,,3
+80008,ROBIN BAIRD,Donator requested that PI request permission to use in study,5/1/09,19.516666,-156.2,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009MAY01.02,"USA, HAWAII",,Male,HI_03,B,yes,BigIs,HIBig2,,"0,2",,,1
+79999,ROBIN BAIRD,Donator requested that PI request permission to use in study,4/27/09,19.416666,-156.483333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009APR27.01,"USA, HAWAII",,Male,KA_01,U,yes,BigIs,HIBig3,1,"2,2","423.11, 223.09",,2
+75673,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/21/08,19.65,-156.083333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008JUL21.01,"USA, HI",,Male,KA06,Q,yes,BigIs,HIBig3,2,"0,3,3",,,3
+78755,ROBIN BAIRD,Donator requested that PI request permission to use in study,12/7/08,19.4,-156.066666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008DEC07.04,"USA, HAWAII",,female,HI_04,M,yes,BigIs,HIBig3,3,"0,3,3",,,3
+45989,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/30/04,19.616666,-156.1,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB301104.02,"USA, HI",,Female,HI_04,M,yes,BigIs,HIBig3,,0,,,3
+45952,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/20/04,19.9,-156.216666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB201104.01,"USA, HI",,Male,HI_04,M,yes,BigIs,HIBig3,,0,,,2
+75674,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/21/08,19.65,-156.083333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008JUL21.02,"USA, HI",,male,HI_12,HI_12,yes,BigIs,HIBig4,1,"0,3,3","NA, 464.69, 224.59",,2
+88599,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/29/09,19.166666,-155.95,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2009OCT29.04,,,female,HI_02,I,yes,BigIs,HIBig4,3,2,,,3
+132618,ROBIN BAIRD,Donator requested that PI request permission to use in study,5/13/11,19.3,-156.2,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,1
+132619,ROBIN BAIRD,Donator requested that PI request permission to use in study,5/13/11,19.3,-156.2,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+112650,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/30/12,19.36427,-155.98318,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+94811,ROBIN BAIRD,Donator requested that PI request permission to use in study,4/11/10,19.4,-156.35,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+112664,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/23/12,19.51145,-156.21182,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+112665,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/23/12,19.51297,-156.20944,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+112656,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/10/12,19.54473,-156.11381,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+132643,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/22/11,19.783333,-156.15,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,2
+132644,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/22/11,19.783333,-156.15,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+132645,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/22/11,19.8,-156.15,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,2
+112645,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/19/12,19.8173,-156.15184,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+103979,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/22/11,19.866666,-156.283333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,BigIs,,,,,,3
+75668,ROBIN BAIRD,Donator requested that PI request permission to use in study,7/20/08,19.183333,-155.966666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2008JUL20.04,"USA, HI",,male,?,,no,BigIs,,,0,,,2
+45987,ROBIN BAIRD,Donator requested that PI request permission to use in study,1/29/05,19.866666,-156.166666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB290105.01,"USA, HI",,?,?,,no,BigIs,,,0,,,1
+124777,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/17/11,22.233333,-157.666666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,Male,KA06,Q,yes,CNP,CNMI,,1,,,0
+187724,JAY BARLOW,,9/3/17,18.74283,-156.7995,MHI-Offshore,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNP,,,3,0,,3
+123346,JAY BARLOW,,10/3/10,22.066666,-159.95,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,,NW HI,,Female,KA_04,G,yes,Kauai,HIK1,3,4,,,3
+123345,JAY BARLOW,,10/3/10,22.066666,-159.95,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,,NW HI,,Male,KA_02,K,yes,Kauai,HIK3,,4,,,3
+123385,JAY BARLOW,,11/26/10,22.083333,-159.916666,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,,NW HI,,?,KA_02,K,yes,Kauai,HIK3,,4,,,3
+123384,JAY BARLOW,,11/26/10,22.083333,-159.916666,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,,NW HI,,female,KA_01,U,yes,Kauai,HIK3,,4,,,3
+123383,JAY BARLOW,,11/26/10,22.083333,-159.916666,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,,NW HI,,?,KA_01,U,yes,Kauai,HIK3,,4,,,3
+139066,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/4/14,21.95518,-159.89592,WEST COAST,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,2,243.2,,3
+123344,JAY BARLOW,,10/3/10,22.066666,-159.95,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,4,,,3
+51050,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.03,"USA, HI, KAUAI",,Male,KA_05,F,yes,Kauai,HIK2,,2,,,1
+34060,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/9/03,22.1,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB090603.A01,"USA, HI, KAUAI",,Male,KA02,K,yes,Kauai,HIK3,,0,14,,3
+33998,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.4,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W06,"USA, HI, KAUAI",,Male,KA_02,K,yes,Kauai,HIK3,,0,25,,3
+33993,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.316666,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W01,"USA, HI, KAUAI",,Female,KA_02,K,yes,Kauai,HIK3,,0,29,,3
+34059,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/8/03,21.816666,-159.433333,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB080603.W04,"USA, HI, KAUAI",,Female,KA02,K,yes,Kauai,HIK3,,0,33,,3
+51051,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.04,"USA, HI, KAUAI",,Male,KA_02,K,yes,Kauai,HIK3,,0,,,3
+51052,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.05,"USA, HI, KAUAI",,Male?,KA_02,K,yes,Kauai,HIK3,,0,,,3
+51053,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.06,"USA, HI, KAUAI",,Female,KA_02,K,yes,Kauai,HIK3,,0,,,1
+51065,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/4/05,22.066666,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV04.02,"USA, HI, NI'IHAU ",,Female,KA_02,K,yes,Kauai,HIK3,,0,,,2
+51059,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.12,"USA, HI, NI'IHAU ",,Female,KA_02,K,yes,Kauai,HIK3,,2,,,2
+51054,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.07,"USA, HI, KAUAI",,Male,KA_06,Q,yes,Kauai,HIK3,,0,,,1
+51048,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.01,"USA, HI, KAUAI",,Male,KA_01,U,yes,Kauai,HIK3,,0,,,3
+51056,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.09,"USA, HI, KAUAI",,male,KA_01,U,yes,Kauai,HIK3,,0,,,3
+51049,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.02,"USA, HI, KAUAI",,female,KA_01,U,yes,Kauai,HIK3,,2,,,3
+51057,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.10,"USA, HI, KAUAI",,male,KA_01,U,yes,Kauai,HIK3,,2,,,2
+34045,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,21.983333,-159.883333,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W08,"USA, HI, KAUAI",,Male,KA03,X,yes,Kauai,HIK3,,0,11,,3
+34001,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.4,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W09,"USA, HI, KAUAI",,Female,KA_03,X,yes,Kauai,HIK3,,0,57,,3
+33999,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.4,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W07,"USA, HI, KAUAI",,Male,KA_03,X,yes,Kauai,HIK3,,0,104,,3
+34040,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,22.05,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W03,"USA, HI, KAUAI",,Male,Sbr03FP12,E,yes,Kauai,,2,"0,2","9, NA",,3
+34042,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,22.05,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W05,"USA, HI, KAUAI",,Male,KA05,F,yes,Kauai,,2,"0,3,3","10, NA, NA",,3
+34000,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.4,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W08,"USA, HI, KAUAI",,Male,KA_04,G,yes,Kauai,,3,"0,2,3,3","NA, 6, NA, NA",,3
+34064,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/9/03,22.1,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB090603.A05,"USA, HI, KAUAI",,Female,KA02,K,yes,Kauai,,3,"0,3,3","22, NA, NA",,3
+34020,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/6/03,22.266666,-159.7,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB060603.A01,"USA, HI, KAUAI",,Female,KA_03,X,yes,Kauai,,3,"2,3","60, NA",,3
+34043,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W06,"USA, HI, KAUAI",,Male,Sbr03FP12,E,yes,Kauai,,,"0,0","13, NA",,3
+34043,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,male,Sbr03FP12,E,yes,Kauai,,,"0,0","13, NA",,3
+34058,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/8/03,21.816666,-159.433333,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB080603.W03,"USA, HI, KAUAI",,Male,KA05,F,yes,Kauai,,,"0,3,3","21, NA, NA",,3
+33996,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.383333,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W04,"USA, HI, KAUAI",,Male,KA_04,G,yes,Kauai,,,"0,2,2","22, 0.68, 0.68",,3
+34041,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,22.05,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W04,"USA, HI, KAUAI",,Male,HI_01,H,yes,Kauai,,,"0,3,3","9, NA, NA",,3
+34038,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W01,"USA, HI, KAUAI",,Male,KA_02,K,yes,Kauai,,,"0,2,2","10, NA, NA",,3
+34044,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,22.033333,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W07,"USA, HI, KAUAI",,Male,KA02,K,yes,Kauai,,,"0,2,2","14, NA, NA",,3
+33997,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.383333,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W05,"USA, HI, KAUAI",,Male,KA_02,K,yes,Kauai,,,"0,2,2,3","25, 0, 0, NA",,1
+34061,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/9/03,22.1,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB090603.A02,"USA, HI, KAUAI",,Male,KA02,K,yes,Kauai,,,"0,3,3","11, NA, NA",,3
+34062,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/9/03,22.1,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB090603.A03,"USA, HI, KAUAI",,Female,KA02,K,yes,Kauai,,,"0,3,3","17, NA, NA",,3
+33994,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.333333,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W02,"USA, HI, KAUAI",,Female,KA_02,K,yes,Kauai,,,"0,3,3","40, 0, 0",,3
+34039,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,22.05,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W02,"USA, HI, KAUAI",,Female,KA_02,K,yes,Kauai,,,"0,3,3","8, NA, NA",,3
+34056,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/8/03,21.816666,-159.433333,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB080603.W01,"USA, HI, KAUAI",,Male,KA07,L,yes,Kauai,,,"0,3,3","16, NA, NA",,3
+34057,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/8/03,21.816666,-159.433333,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB080603.W02,"USA, HI, KAUAI",,Male,KA07,L,yes,Kauai,,,"0,3,3","18, NA, NA",,3
+203252,ROBIN BAIRD,Sample is being used for a SWFSC project,2/15/20,22.16835,-159.93281,Kauai,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+217538,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/17/24,21.88244,-159.76505,"Kauai, Kauai, HI, USA",Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+105240,ROBIN BAIRD,Donator requested that PI request permission to use in study,1/14/12,21.85,-159.65,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+105241,ROBIN BAIRD,Donator requested that PI request permission to use in study,1/14/12,21.85,-159.65,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+217535,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/16/24,21.87022,-159.6357,"Kauai, Kauai, HI, USA",Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+217539,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/17/24,21.83426,-159.58491,"Kauai, Kauai, HI, USA",Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+203242,ROBIN BAIRD,Sample is being used for a SWFSC project,2/8/20,21.84764,-159.55243,Kauai,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+203241,ROBIN BAIRD,Sample is being used for a SWFSC project,2/8/20,21.80605,-159.51898,Kauai,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+34063,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/9/03,22.1,-159.9,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB090603.A04,"USA, HI, KAUAI",,Male,KA06,Q,yes,Kauai,,,"0,3,3","18, NA, NA",,3
+34046,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,21.966666,-159.866666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W09,"USA, HI, KAUAI",,Female,KA_01,U,yes,Kauai,,,"0,2","7, NA",,3
+33995,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/4/03,22.366666,-159.366666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB040603.W03,"USA, HI, KAUAI",,Male,KA_01,U,yes,Kauai,,,"0,2,2","5, 0, 0",,3
+34047,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/7/03,21.966666,-159.866666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB070603.W10,"USA, HI, KAUAI",,Female,KA_01,U,yes,Kauai,,,"0,3,3","16, NA, NA",,3
+34021,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/6/03,22.266666,-159.7,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB060603.A02,"USA, HI, KAUAI",,Male,,,no,Kauai,,,0,43,,3
+51055,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.08,"USA, HI, KAUAI",,male,?,,no,Kauai,,,0,,,2
+51058,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/30/05,22.05,-159.916666,,Kauai,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005OCT30.11,"USA, HI, KAUAI",,male,?,,no,Kauai,,,0,,,2
+214419,Marie Hill,Donator requested that PI request permission to use in study,1/19/20,21.9913,-159.9947,"Main Hawaiian Islands, Niihau, Hawaii, USA",Niihau,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,3,,,3
+214420,Marie Hill,Donator requested that PI request permission to use in study,1/19/20,21.9913,-159.9947,"Main Hawaiian Islands, Niihau, Hawaii, USA",Niihau,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,3,,,3
+51104,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.066666,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.13,"USA, HI, NI'IHAU ",,Male,HI_13,HI_13,yes,Kauai,HIK1,,2,,,3
+33964,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/2/03,21.783333,-160.033333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB020603.W02,"USA, HI, NI'IHAU",,Male,KA_04,G,yes,Kauai,HIK1,,0,33,,3
+124780,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/18/11,22.333333,-159.35,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,Female,KA04,G,yes,Kauai,HIK1,,1,,,2
+124776,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/17/11,22.233333,-159.683333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,Female,KA04,G,yes,Kauai,HIK1,,2,,,2
+51109,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.17,"USA, HI, NI'IHAU ",,female,HI_01,H,yes,Kauai,HIK1,,0,,,3
+51112,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.20,"USA, HI, NI'IHAU ",,female,HI_01,H,yes,Kauai,HIK1,,0,,,1
+51095,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.083333,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.04,"USA, HI, NI'IHAU ",,Female,HI_01,H,yes,Kauai,HIK1,,0,,,3
+51098,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.066666,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.07,"USA, HI, NI'IHAU ",,Female,Sbr03FP12,E,yes,Kauai,HIK2,,0,,,3
+51114,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.22,"USA, HI, NI'IHAU ",,male,KA_05,F,yes,Kauai,HIK2,,0,,,2
+124778,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/18/11,22.283333,-159.383333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,Female,KA05,F,yes,Kauai,HIK2,,2,,,3
+30517,JAY BARLOW,,11/10/02,22.366666,-159.4,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,MAC021110.01,NW HI,,female,KA_03,X,Yes,Kauai,HIK3,1,3,30,,3
+51110,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.18,"USA, HI, NI'IHAU ",,female,KA_01,U,yes,Kauai,HIK3,3,"0,3,3","NA, 192.99, 104.9",,2
+51101,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.066666,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.10,"USA, HI, NI'IHAU ",,Male,KA_02,K,yes,Kauai,HIK3,,0,,,3
+51102,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.066666,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.11,"USA, HI, NI'IHAU ",,Female,KA_02,K,yes,Kauai,HIK3,,0,,,1
+51096,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.083333,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.05,"USA, HI, NI'IHAU ",,female,KA_02,K,yes,Kauai,HIK3,,2,,,3
+51113,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.21,"USA, HI, NI'IHAU ",,female,KA_07,L,yes,Kauai,HIK3,,0,,,2
+51113,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,female,KA_07,L,yes,Kauai,HIK3,,0,,,2
+51106,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.15,"USA, HI, NI'IHAU ",,Male,KA_01,U,yes,Kauai,HIK3,,0,,,1
+51100,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.066666,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.09,"USA, HI, NI'IHAU ",,Male,KA_01,U,yes,Kauai,HIK3,,0,,,1
+51097,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.083333,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.06,"USA, HI, NI'IHAU ",,Male,KA_01,U,yes,Kauai,HIK3,,0,,,3
+33987,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/3/03,22.116666,-160.133333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB030603.A02,"USA, HI, NI'IHAU",,Male,KA_01,U,yes,Kauai,HIK3,,1,137,,3
+51099,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.066666,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.08,"USA, HI, NI'IHAU ",,Female,KA_01,U,yes,Kauai,HIK3,,2,,,1
+51105,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.066666,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.14,"USA, HI, NI'IHAU ",,Male,KA_01,U,yes,Kauai,HIK3,,2,,,1
+124779,ROBIN BAIRD,Donator requested that PI request permission to use in study,2/18/11,22.283333,-159.366666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,Female,KA_01,U,yes,Kauai,HIK3,,2,,,2
+33989,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/3/03,22.1,-160.083333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB030603.A04,"USA, HI, NI'IHAU",,female,KA_03,X,yes,Kauai,HIK3,,0,23,,3
+33989,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/3/03,22.1,-160.083333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,female,KA_03,X,yes,Kauai,HIK3,,0,23,,3
+51107,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.16,"USA, HI, NI'IHAU ",,female,KA_03,X,yes,Kauai,HIK3,,0,,,2
+51107,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,Kauai,,female,KA_03,X,yes,Kauai,HIK3,,0,,,2
+51094,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.083333,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.03,"USA, HI, NI'IHAU ",,Female,KA_03,X,yes,Kauai,HIK3,,0,,,2
+51103,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.066666,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.12,"USA, HI, NI'IHAU ",,Male,KA_03,X,yes,Kauai,HIK3,,2,,,1
+187735,JAY BARLOW,,11/8/17,21.55633,-159.92133,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,HIK4,1,4,77.63,,3
+133154,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/23/11,22.1,-159.85,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,HIK4,2,3,32.08,,3
+187733,JAY BARLOW,,11/8/17,21.56517,-159.93767,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,HIK4,3,4,13.07,,3
+187703,JAY BARLOW,,9/13/17,22.25118,-160.35564,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,HIK4,,4,0.63,,3
+187701,JAY BARLOW,,9/13/17,22.24851,-160.35641,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,HIK4,,4,2.41,,3
+187696,JAY BARLOW,,9/13/17,22.2285,-160.37489,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,HIK4,,4,3.37,,3
+187699,JAY BARLOW,,9/13/17,22.24754,-160.35755,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,HIK4,,4,8.81,,3
+187697,JAY BARLOW,,9/13/17,22.2459,-160.36085,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,HIK4,,4,12.2,,3
+51115,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.033333,-159.933333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.23,"USA, HI, NI'IHAU ",,Female,Sbr03FP12,E,yes,Kauai,HIK4,,"0,3,3",,,3
+51117,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.033333,-159.933333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.25,"USA, HI, NI'IHAU ",,male,KA_05,F,yes,Kauai,HIK4,,"0,3,3",,,3
+187734,JAY BARLOW,,11/8/17,21.555,-159.92433,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,MHIextra,,3,0.55,,3
+33988,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/3/03,22.1,-160.083333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB030603.A03,"USA, HI, NI'IHAU",,Female,KA_03,X,yes,Kauai,,2,"1,3","14, NA",,3
+51111,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.19,"USA, HI, NI'IHAU ",,male,Sbr03FP12,E,yes,Kauai,,3,"0,2",,,1
+51108,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.05,-159.95,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,0,,,2
+187700,JAY BARLOW,,9/13/17,22.24797,-160.35724,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,3,0,,3
+187737,JAY BARLOW,,11/8/17,21.55517,-159.941,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,3,0,,1
+187702,JAY BARLOW,,9/13/17,22.24943,-160.35692,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,4,0,,3
+187736,JAY BARLOW,,11/8/17,21.55967,-159.9335,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,4,0,,3
+187698,JAY BARLOW,,9/13/17,22.24619,-160.36083,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,3,3.2,,3
+133172,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/2/11,22.1,-159.85,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,3,,,1
+108137,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/12/12,22.083333,-159.983333,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133194,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/8/11,22.1,-159.983333,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+133195,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/8/11,22.1,-159.983333,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+133175,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/2/11,22.066666,-159.916666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+133176,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/2/11,22.083333,-159.916666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+133177,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/2/11,22.083333,-159.916666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+195244,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/14/18,22.06736,-159.90167,Kauai,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133156,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/24/11,22.066666,-159.9,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133174,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/2/11,22.066666,-159.9,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133173,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/2/11,22.083333,-159.9,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+133155,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/23/11,22.116666,-159.9,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+195238,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/9/18,21.9356,-159.87442,Kauai,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+195241,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/10/18,21.95884,-159.86885,Kauai,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+195239,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/9/18,21.92255,-159.86822,Kauai,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133150,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/21/11,22.05,-159.866666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+133151,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/21/11,22.05,-159.866666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+133168,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/31/11,22.1,-159.866666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,1
+133169,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/31/11,22.1,-159.866666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133170,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/31/11,22.1,-159.866666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,1
+133161,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/27/11,22.183333,-159.866666,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,1
+195243,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/14/18,22.0915,-159.85421,Kauai,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133171,ROBIN BAIRD,Donator requested that PI request permission to use in study,9/1/11,21.983333,-159.85,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+108140,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/23/12,22.016666,-159.85,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133149,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/21/11,22.033333,-159.85,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,2
+195240,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/9/18,21.91799,-159.8392,Kauai,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+133160,ROBIN BAIRD,Donator requested that PI request permission to use in study,8/26/11,21.91699,-159.83644,OFF KAUAI COAST,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Kauai,,,,,,3
+33966,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/2/03,21.783333,-160.033333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB020603.W04,"USA, HI, NI'IHAU",,Female,KA_01,U,yes,Kauai,,,"0,3,3","49, NA, NA",,3
+33965,ROBIN BAIRD,Donator requested that PI request permission to use in study,6/2/03,21.783333,-160.033333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB020603.W03,"USA, HI, NI'IHAU",,Male,KA_01,U,yes,Kauai,,,"3,3","7, NA",,3
+51116,ROBIN BAIRD,Donator requested that PI request permission to use in study,11/14/05,22.033333,-159.933333,NI'IHAU,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2005NOV14.24,"USA, HI, NI'IHAU ",,female,?,,no,Kauai,,,0,,,3
+30452,JAY BARLOW,,10/22/02,21.666666,-158.666666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,DSJ021022.01,NW HI,,male,KA_04,G,Yes,Kauai/Oahu,HIK1,2,"3,3,3,3,3","32, 364.57, NA, NA, NA",,2
+30453,JAY BARLOW,,10/22/02,21.666666,-158.666666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,DSJ021022.02,NW HI,,female,KA_01,U,Yes,Kauai/Oahu,HIK3,2,3,24,,3
+30454,JAY BARLOW,,10/22/02,21.666666,-158.666666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,DSJ021022.03,NW HI,,?,KA_01,U,Yes,Kauai/Oahu,HIK3,,3,,,1
+123351,JAY BARLOW,,10/8/10,24.516666,-168.316666,Papahanaumokuakea Marine National Monument,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,NW HI,,Male,KA_05,F,yes,NWHI,NWHI1,1,4,,,3
+123348,JAY BARLOW,,10/8/10,24.516666,-168.316666,Papahanaumokuakea Marine National Monument,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,NWHI,NWHI2,1,4,,,3
+123349,JAY BARLOW,,10/8/10,24.516666,-168.316666,Papahanaumokuakea Marine National Monument,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,NWHI,,,,,,1
+123350,JAY BARLOW,,10/8/10,24.516666,-168.316666,Papahanaumokuakea Marine National Monument,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,NWHI,,,,,,1
+123352,JAY BARLOW,,10/8/10,24.516666,-168.316666,Papahanaumokuakea Marine National Monument,,HAWAII,UNITED STATES OF AMERICA,North Pacific,,NW HI,,Male,KA_01,U,yes,NWHI,,,4,,,3
+214431,Marie Hill,Donator requested that PI request permission to use in study,3/11/20,21.6945,-158.7652,"Main Hawaiian Islands, Maui, Hawaii, USA",Maui,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,,,3,,,3
+33850,ROBIN BAIRD,Donator requested that PI request permission to use in study,5/24/03,21.566666,-158.383333,,Oahu,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB240503.W06,"USA, HI, OAHU",,Male,KA_02,K,yes,Oahu,HIK3,,0,36,,3
+33849,ROBIN BAIRD,Donator requested that PI request permission to use in study,5/24/03,21.566666,-158.383333,,Oahu,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB240503.W05,"USA, HI, OAHU",,Male,KA_01,U,yes,Oahu,HIK3,,1,76,,3
+92258,ERIN OLESON,Donator requested that PI request permission to use in study,10/17/09,21.433333,-158.3,OAHU SW,Oahu,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,,,3,,,1
+92253,ERIN OLESON,Donator requested that PI request permission to use in study,10/11/09,21.35,-158.266666,OAHU WEST,Oahu,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,,,,,,3
+30503,JAY BARLOW,,11/26/02,21.216666,-158.816666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,DSJ021126.04,NW HI,,female,HI_01,H,Yes,Oahu,HIK1,1,"3,3","NA, 23",,"3,3"
+30504,JAY BARLOW,,11/26/02,21.216666,-158.816666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,DSJ021126.05,NW HI,,female,HI_02,I,Yes,Oahu,HIK1,,2,41,,3
+102475,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/11/10,21.466666,-158.3,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2010OCT11.02,Oahu,,Male,KA04,G,yes,Oahu,HIK1,,0,,,3
+102474,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/10/10,21.416666,-158.316666,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2010OCT10.05,Oahu,,Female,KA04,G,yes,Oahu,HIK1,,3,,,3
+102478,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/11/10,21.433333,-158.3,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2010OCT11.04,Oahu,,Female,KA04,G,yes,Oahu,HIK1,,3,,,3
+102477,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/11/10,21.466666,-158.3,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2010OCT11.01,Oahu,,Male,KA04,G,yes,Oahu,HIK1,,3,,,3
+187665,JAY BARLOW,,8/8/17,21.05716,-158.0298,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,HIK2,1,3,37.98,,3
+187722,JAY BARLOW,,10/9/17,21.21333,-158.1378,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,HIK2,2,3,17.14,,3
+187708,JAY BARLOW,,10/8/17,21.61283,-158.4455,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,HIK2,3,3,13.81,,3
+102471,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/10/10,21.466666,-158.283333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2010OCT10.06,Oahu,,Male,KA_02,K,yes,Oahu,HIK3,,3,,,3
+102476,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/11/10,21.466666,-158.3,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2010OCT11.03,Oahu,,Male,Sbr00FP02,P,yes,Oahu,HIK3,,3,,,3
+102472,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/10/10,21.45,-158.283333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2010OCT10.04,Oahu,,Female,KA_01,U,yes,Oahu,HIK3,,3,,,3
+187706,JAY BARLOW,,10/8/17,21.613,-158.4398,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,,,3,0,,3
+187707,JAY BARLOW,,10/8/17,21.61283,-158.445,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,,,4,0.94,,3
+187720,JAY BARLOW,,10/9/17,21.18733,-158.1315,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,,,3,8.73,,3
+187721,JAY BARLOW,,10/9/17,21.21283,-158.1355,MHI ,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,,,3,11.86,,3
+92231,ERIN OLESON,Donator requested that PI request permission to use in study,10/2/09,21.483333,-158.333333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,NA,NA,NA,NA,NA,NA,NA,Oahu,,,,,,3
+102473,ROBIN BAIRD,Donator requested that PI request permission to use in study,10/10/10,21.433333,-158.3,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,RWB2010OCT10.03,Oahu,,Male,KA_01,U,yes,Oahu,,,"1,3",,,1
+139,JAN HODDER,,1/14/91,42.416666,-124.433333,GOLD BEACH,,OREGON,UNITED STATES OF AMERICA,North Pacific,OIMB-91-02,"USA, OR, CURRY CO., GOLD BEACH",stranding,Male,PAC3,PAC3,yes,CA/OR/WA,CA/OR/WA,3,3,1750,,3
+138,JAN HODDER,,1/14/91,42.416666,-124.433333,GOLD BEACH,,OREGON,UNITED STATES OF AMERICA,North Pacific,OIMB-91-01,"USA, OR, CURRY CO., GOLD BEACH",,Male,PAC3,PAC3,yes,CA/OR/WA,,,"0,NA","NA, 4450",,2
+217546,MICHAEL MARSIK,"No external permission needed, but donator requests notification when used.",1/4/16,-15.583,-170.457,"Pelagic, AS",,,AMERICAN SAMOA,North Pacific,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,3
+217547,MICHAEL MARSIK,"No external permission needed, but donator requests notification when used.",1/6/16,-15.665,-170.643,"Pelagic, AS",,,AMERICAN SAMOA,North Pacific,NA,NA,NA,NA,NA,NA,NA,ATL,,,,,,3
+159744,ERIN OLESON,Donator requested that PI request permission to use in study,5/26/15,18.7925,145.58499,"Agrihan, 3.2km NW Aguihan",Agrihan,,NORTHERN MARIANA ISLANDS,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNMI,CNMI2,1,3,,,0
+159742,ERIN OLESON,Donator requested that PI request permission to use in study,5/26/15,18.78564,145.5933,"Agrihan, 3.2km NW Aguihan",Agrihan,,NORTHERN MARIANA ISLANDS,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNMI,CNMI2,2,3,,,0
+159743,ERIN OLESON,Donator requested that PI request permission to use in study,5/26/15,18.79098,145.58643,"Agrihan, 3.2km NW Aguihan",Agrihan,,NORTHERN MARIANA ISLANDS,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNMI,CNMI2,3,3,,,0
+159731,ERIN OLESON,Donator requested that PI request permission to use in study,5/22/15,17.59605,145.80981,"Alamagan, 0.45km SSW Alamagan",Alamagan Island,,NORTHERN MARIANA ISLANDS,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNMI,CNMI2,,3,,,0
+159732,ERIN OLESON,Donator requested that PI request permission to use in study,5/22/15,17.59315,145.8103,"Alamagan, 0.45km SSW Alamagan",Alamagan Island,,NORTHERN MARIANA ISLANDS,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNMI,CNMI2,,3,,,0
+159730,ERIN OLESON,Donator requested that PI request permission to use in study,5/21/15,17.23493,146.00166,"Guguan, offshore, 18km SE Guguan",Guguan Island,,NORTHERN MARIANA ISLANDS,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNMI,CNMI2,,3,,,2
+116871,ERIN OLESON,Donator requested that PI request permission to use in study,7/20/13,15.232742,145.623937,10.1km W of Managaha,Saipan Island,,NORTHERN MARIANA ISLANDS,North Pacific,PIC130720.01B,Marianus,,female,KA_01,U,yes,CNMI,CNMI1,2,2,131.05,,3
+197357,ERIN OLESON,Donator requested that PI request permission to use in study,2/19/18,15.41392,145.84815,SW Marpi Reef,Saipan Island,,NORTHERN MARIANA ISLANDS,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNMI,CNMI2,,3,,,3
+175295,ERIN OLESON,Donator requested that PI request permission to use in study,5/9/16,15.15188,145.61736,,Saipan Island,,NORTHERN MARIANA ISLANDS,North Pacific,NA,NA,NA,NA,NA,NA,NA,CNMI,,,0,,,1
+116865,ERIN OLESON,Donator requested that PI request permission to use in study,7/15/13,14.875839,145.576405,"Aguijan, 510m SE of E tip of Aguijan",,,NORTHERN MARIANA ISLANDS,North Pacific,PIC130720.01A,Marianus,,female,KA_01,U,yes,CNMI,CNMI1,1,3,136.95,,3
+1316,SUSAN CHIVERS,No tissue or DNA available for loan,9/21/79,10.3,-88.45,ETP,,,,North Pacific,RCR0150,ETP,biopsy,Male,RA01,D,yes,ETP,Hap CDEV2,1,4,142.68,,0
+38180,LISA Ballance,,9/26/03,11.233333,-88.6,CENTRAL,,,,North Pacific,DSJ030926.15,CENTRAL,,female,PAC1,PAC1,yes,ETP,,,2,,,3
+1317,SUSAN CHIVERS,,2/25/78,12.783333,-95.716666,ETP,,,,North Pacific,EHE0003,ETP,biopsy,Male,PAC17,PAC17,yes,ETP,,,2,135.22,,0
+15996,LISA Ballance,,9/8/99,17.533333,-101.566666,,,,MEXICO,North Pacific,DSJ990908.09,MEXICO,,,PAC19,PAC19,no,ETP,,,0,,,"3,0"
+16159,LISA Ballance,,11/23/99,7.9,-91.45,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ991123.03,IFS,,,PAC2,PAC2,no,ETP,,,0,,,3
+18432,LISA Ballance,,11/2/00,6.516666,-99.433333,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ001102.02,IFS,,,PAC2,PAC2,no,ETP,,,0,,,3
+38067,LISA Ballance,,8/16/03,19.85,-105.6,,,,MEXICO,North Pacific,DSJ030816.15,MEXICO,,Male,PAC2,PAC2,yes,ETP,,,0,,,"3,1,3"
+38068,LISA Ballance,,8/16/03,19.75,-105.45,,,,MEXICO,North Pacific,DSJ030816.16,MEXICO,,Female,PAC2,PAC2,yes,ETP,,,0,,,"2,3"
+38080,LISA Ballance,,8/22/03,16.933333,-108.066666,,,,MEXICO,North Pacific,DSJ030822.02,MEXICO,,Female,PAC2,PAC2,yes,ETP,,,0,,,"2,2,3"
+16160,LISA Ballance,,11/23/99,7.9,-91.45,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ991123.04,IFS,,,PAC2,PAC2,no,ETP,,,"0,2","NA, 7",,"3,1"
+38201,LISA Ballance,,10/10/03,6.066666,-90.3,,,,COSTA RICA,North Pacific,DSJ031010.01,COSTA RICA,,male,PAC3,PAC3,yes,ETP,,,0,,,3
+66774,LISA Ballance,,8/31/06,5.7,-90.616666,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ060831.06,IFS,,?,PAC3,PAC3,no,ETP,,,0,,,1
+15890,LISA Ballance,,8/9/99,21.25,-107.716666,,,,MEXICO,North Pacific,DSJ990809.01,MEXICO,,,PAC3,PAC3,no,ETP,,,0,,,"3,0"
+18466,LISA Ballance,,11/14/00,16.783333,-100.866666,,,,MEXICO,North Pacific,DSJ001114.21,MEXICO,,,PAC3,PAC3,no,ETP,,,0,,,3
+18069,LISA Ballance,,8/12/00,20.95,-106.116666,,,,MEXICO,North Pacific,DSJ000812.18,MEXICO,,,PAC3,PAC3,no,ETP,,,1,,,3
+18068,LISA Ballance,,8/12/00,20.95,-106.116666,,,,MEXICO,North Pacific,DSJ000812.17,MEXICO,,,PAC3,PAC3,no,ETP,,,2,,,3
+38138,LISA Ballance,,9/21/03,13.15,-99.183333,,,,MEXICO,North Pacific,DSJ030921.03,MEXICO,,Male,PAC3,PAC3,yes,ETP,,,2,,,"2,2,3"
+38289,LISA Ballance,,11/16/03,16.933333,-101.066666,,,,MEXICO,North Pacific,DSJ031116.01,MEXICO,,male,PAC3,PAC3,yes,ETP,,,2,,,"2,2,3"
+66913,LISA Ballance,,10/10/06,12.183333,-96.8,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ061010.03,IFS,,female,PAC3,PAC3,yes,ETP,,,"0,0,0,0",,,3
+1214,TIM GERRODETTE,,10/7/92,3.983333,-79.016666,ETP,,,,North Pacific,DSJ921007.01,ETP,biopsy,Male,PAC3,PAC3,yes,ETP,,,"2,0","NA, 4500",,1
+66794,LISA Ballance,Sample not available for use.,9/11/06,4.616666,-81.016666,,,,COLOMBIA,North Pacific,DSJ060911.01,COLUMBIA,,?,PAC3,PAC3,yes,ETP,,,"4,0",,,3
+66768,LISA Ballance,,8/20/06,16.366666,-111.383333,,,,MEXICO,North Pacific,DSJ060820.02,Mexico,,male,PAC3,PAC3,no,ETP,,,"4,0",,,3
+18467,LISA Ballance,,11/14/00,17.166666,-101.216666,,,,MEXICO,North Pacific,DSJ001114.22,MEXICO,,,PAC4,PAC4,no,ETP,,,0,,,3
+18468,LISA Ballance,,11/14/00,17.166666,-101.216666,,,,MEXICO,North Pacific,DSJ001114.23,MEXICO,,,PAC4,PAC4,no,ETP,,,0,,,3
+67070,LISA Ballance,,11/13/06,16.166666,-104.616666,,,,MEXICO,North Pacific,DSJ061113.02,Mexico,,?,PAC4,PAC4,yes,ETP,,,0,,,3
+67080,LISA Ballance,,11/22/06,19.033333,-104.416666,,,,MEXICO,North Pacific,DSJ061122.01,Mexico,,male,PAC4,PAC4,yes,ETP,,,"0,0,0,0",,,3
+66900,LISA Ballance,,10/7/06,10.833333,-94.25,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ061007.01,IFS,,female,PAC4,PAC4,yes,ETP,,,"3,3,0",,,1
+38181,LISA Ballance,,9/26/03,11.233333,-88.6,CENTRAL,,,,North Pacific,DSJ030926.16,CENTRAL,,male,PAC5,PAC5,yes,ETP,,,0,,,"0,1,3"
+66873,LISA Ballance,,9/24/06,8.9,-90.766666,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ060924.01,IFS,,male,PAC5,PAC5,yes,ETP,,,"0,0,0,0",,,3
+66874,LISA Ballance,,9/24/06,8.9,-90.766666,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ060924.02,IFS,,?,PAC5,PAC5,yes,ETP,,,"0,0,0,0",,,3
+38283,LISA Ballance,,11/2/03,13.5,-104.066666,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ031102.03,IFS,,male,PAC6,PAC6,yes,ETP,,,0,,,"3,3,3"
+38284,LISA Ballance,,11/2/03,13.5,-104.066666,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ031102.04,IFS,,?,PAC6,PAC6,yes,ETP,,,2,,,"2,3,3"
+18127,LISA Ballance,,8/23/00,14.833333,-114.85,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ000823.02,IFS,,,PAC8,PAC8,no,ETP,,,0,17,,3
+38136,LISA Ballance,,9/21/03,13.15,-99.183333,,,,MEXICO,North Pacific,DSJ030921.01,MEXICO,,Female,?,,no,ETP,,,2,,,"0,2,3"
+38137,LISA Ballance,,9/21/03,13.15,-99.183333,,,,MEXICO,North Pacific,DSJ030921.02,MEXICO,,Male,?,,no,ETP,,,2,,,"3,1,3"
+1215,TIM GERRODETTE,,10/21/92,11.15,-95.783333,ETP,,,,North Pacific,DSJ921021.01,ETP,biopsy,Male,,,no,ETP,,,"0,0","NA, 11000",,3
+1945,TIM GERRODETTE,,11/9/93,18.4,-104.833333,ETP,,,,North Pacific,MAC931100.30,ETP,,?,?,,yes,ETP,,,"0,0","NA, 10500",,3
+544,SUSAN CHIVERS,,1/30/82,8.716666,-98.016666,ETP,,,,North Pacific,MSB0005,ETP,biopsy,Male,?,,no,ETP,,,"2,3","6.43, NA",,3
+11924,TIM GERRODETTE,,9/2/98,10.5,-86.65,,,,NICARAGUA,North Pacific,DSJ980902.04,NICARAGUA,,Female,PAC6,PAC6,yes,ETP1,ETP1,1,"2,3,3","138.48, 705.19, 532.77",,3
+18126,LISA Ballance,,8/23/00,14.833333,-114.85,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ000823.01,IFS,,,PAC7,PAC7,no,ETP1,ETP1,2,"4,4","NA, 45",,3
+66875,LISA Ballance,,9/24/06,8.9,-90.766666,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ060924.03,IFS,,?,PAC5,PAC5,yes,ETP1,ETP1,3,"3,3,3,0",,,3
+11663,TIM GERRODETTE,,8/25/98,15.533333,-97.05,,,,MEXICO,North Pacific,DSJ980825.13,MEXICO,,Male,PAC6,PAC6,yes,ETP1,,,"2,1","NA, 32",,"3,3"
+11638,TIM GERRODETTE,,8/23/98,17.916666,-103.15,,,,MEXICO,North Pacific,DSJ980823.04,MEXICO,,Male,,,yes,ETP1,,,"1,4","NA, 380",,"3,0"
+18431,LISA Ballance,,11/2/00,6.516666,-99.433333,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ001102.01,IFS,,,PAC9,PAC9,no,ETP2,ETP2,1,"3,2","125.73, 12.01",,3
+18469,LISA Ballance,,11/14/00,17.166666,-101.216666,,,,MEXICO,North Pacific,DSJ001114.24,MEXICO,,,PAC4,PAC4,no,ETP2,ETP2,2,"1,4","NA, 14",,3
+66912,LISA Ballance,,10/10/06,12.183333,-96.8,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ061010.02,IFS,,female,PAC4,PAC4,yes,ETP2,ETP2,3,"3,3,3,0",,,3
+38282,LISA Ballance,,11/2/03,13.5,-104.066666,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ031102.02,IFS,,?,PAC6,PAC6,yes,ETP3,ETP3,1,"4,2","320, NA",,"2,3,3"
+66911,LISA Ballance,,10/10/06,12.183333,-96.8,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,DSJ061010.01,IFS,,female,PAC3,PAC3,yes,ETP3,ETP3,2,"3,3,3,0,3",,,3
+66767,LISA Ballance,,8/20/06,16.366666,-111.383333,,,,MEXICO,North Pacific,DSJ060820.01,Mexico,,female,PAC11,PAC11,no,ETP3,ETP3,3,"4,0,0",,,3
+9535,Lien-Siang Chou,,??/??/????,NA,NA,,,,"TAIWAN, PROVINCE OF CHINA",North Pacific,YL9653,Taiwan,,Male,Sbr00FP02,P,yes,WNP,WNP,1,3,,,3
+9537,Lien-Siang Chou,,??/??/????,NA,NA,,,,"TAIWAN, PROVINCE OF CHINA",North Pacific,SU9438,Taiwan,,Male,PAC23,PAC23,yes,WNP,WNP,2,3,,,3
+9536,Lien-Siang Chou,,??/??/????,NA,NA,,,,"TAIWAN, PROVINCE OF CHINA",North Pacific,SU9704,Taiwan,,Male,PAC22,PAC22,yes,WNP,WNP,,0,,,3
+9838,MANUEL FURTADO NETO,,5/3/96,-30,-39,PECEM BEACH,,,BRAZIL,South Atlantic,SB5,"BRAZIL, PECEM BEACH",,Female,ATL4/H9,ATL4/H9,yes,Brazil,,,0,40,,3
+124013,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",11/28/10,-15.5,-170.083333,,,,AMERICAN SAMOA,South Pacific,AS0067-170101,"American Samoa, Tutuila",,female,Sbr03FP12,E,yes,AmSamo,AmSam1,1,"2,2",,,3
+78777,ERIN OLESON,Donator requested that PI request permission to use in study,2/20/06,-14.25,-170.5,Tutuila,,,AMERICAN SAMOA,South Pacific,Sb 33-5,"American Samoa, Tutuila",,Female,HI_04,M,yes,AmSamo,AmSam2,1,"0,3,3",,,3
+78773,ERIN OLESON,Donator requested that PI request permission to use in study,2/20/06,-14.25,-170.5,Tutuila,,,AMERICAN SAMOA,South Pacific,Sb 33-1,"American Samoa, Tutuila",,?,?,,yes,AmSamo,AmSam2,2,"0,3,3",,,3
+78778,ERIN OLESON,Donator requested that PI request permission to use in study,2/20/06,-14.2,-170.566666,Tutuila,,,AMERICAN SAMOA,South Pacific,Sb 36-1,"American Samoa, Tutuila",,?,?,,yes,AmSamo,AmSam2,3,"0,3,3",,,3
+124012,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",11/27/10,-15.583333,-169.566666,,,,AMERICAN SAMOA,South Pacific,AS0067-160108,"American Samoa, Tutuila",,female,Sbr03FP12,E,yes,AmSamo,Hap CDEV,2,"2,2",,,3
+78779,ERIN OLESON,Donator requested that PI request permission to use in study,2/20/06,-14.2,-170.566666,Tutuila,,,AMERICAN SAMOA,South Pacific,Sb 36-2,"American Samoa, Tutuila",,Male,Sbr03FP12,E,yes,AmSamo,Hap CDEV,3,2,,,3
+77043,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",4/15/08,-16,-169.766666,,,,AMERICAN SAMOA,South Pacific,AS0025-020313,AMERICAN SAMOA,,male,Sbr03FP12,E,yes,AmSamo,Hap CDEV,,0,,,1
+78775,ERIN OLESON,Donator requested that PI request permission to use in study,2/20/06,-14.25,-170.5,Tutuila,,,AMERICAN SAMOA,South Pacific,Sb 33-3,"American Samoa, Tutuila",,Male,Sbr03FP12,E,yes,AmSamo,Hap CDEV,,0,,,3
+78776,ERIN OLESON,Donator requested that PI request permission to use in study,2/20/06,-14.25,-170.5,Tutuila,,,AMERICAN SAMOA,South Pacific,Sb 33-4,"American Samoa, Tutuila",,Male,Sbr03FP12,E,yes,AmSamo,Hap CDEV,,0,,,3
+125879,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",3/5/11,-15.5,-170.516666,,,,AMERICAN SAMOA,South Pacific,AS0079-030604,"American Samoa, Tutuila",,female,Sbr03FP12,E,yes,AmSamo,Hap CDEV,,0,,,3
+125880,JAMIE MARCHETTI,"No external permission needed, but donator requests notification when used.",4/26/11,-15.033333,-170.583333,,,,AMERICAN SAMOA,South Pacific,AS0085-070709,"American Samoa, Tutuila",,male,Sbr03FP12,E,yes,AmSamo,Hap CDEV,,0,,,3
+78774,ERIN OLESON,Donator requested that PI request permission to use in study,2/20/06,-14.25,-170.5,Tutuila,,,AMERICAN SAMOA,South Pacific,Sb 33-2,"American Samoa, Tutuila",,Male,HI_01,H,yes,AmSamo,Hap GHIJ,,0,,,3
+3813,,,??/??/????,NA,NA,,,,,Unknown,NA,NA,NA,NA,NA,NA,NA,,,,4,,,0
+3816,,,??/??/????,NA,NA,,,,,Unknown,ZZZ0027,unknown,,?,PAC21,PAC21,yes,,,,4,144.06,,0

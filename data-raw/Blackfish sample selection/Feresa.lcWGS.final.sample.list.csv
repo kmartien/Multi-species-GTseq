@@ -1,0 +1,12 @@
+LABID,CONTACT_NAME,Restrict_Description,Date_Collected,Latitude,Longitude,Location,Island,State,Country,Ocean_Basin,Feresa_strata,Haplotype,category,Rank,DQuant,concentration,dna.comments,TQuant,subs,alts
+5747,LOUELLA DOLAR,Donator requested that PI request permission to use in study,6/19/96,NA,NA,,,,PHILIPPINES,North Pacific,Philippines,3,A,1,"4,3",,NA,3,"5749, 2605",
+67090,LISA Ballance,,11/26/06,18.85,-106.1,,,,MEXICO,North Pacific,other,14,B,1,"2,2,2,3","34.6, 34.6, 34.6, 184.31",NA,2,,
+11711,TIM GERRODETTE,,11/30/98,17.366666,-103.916666,,,,MEXICO,North Pacific,other,7,C1,1,3,225,NA,"3,0","30076, 102488",
+123337,JAY BARLOW,,9/30/10,18.733333,-158.283333,,Hawaii,HAWAII,UNITED STATES OF AMERICA,North Pacific,other,17,C2,1,"4,3","0, 268.91",NA,3,"102489, 61433",
+18137,LISA Ballance,,9/5/00,12.9,-101.433333,,,,IMPORT FROM SEA (INTERNATIONAL WATERS),North Pacific,other,6,D,1,4,61.75,NA,3,"18132, 18136","18134, 11707, 11708, 11709, 18133, 11710"
+9552,Lien-Siang Chou,,??/??/????,NA,NA,,,,"TAIWAN, PROVINCE OF CHINA",North Pacific,other,4,E,1,"4,3","NA, 35.5",NA,3,"9550, 9853","3944, 145402, 48132, 116522, 116523, 116524, 116525, 116526, 116527, 9549, 159703, 159707, 9551"
+55171,ROBIN BAIRD,Donator requested that PI request permission to use in study,4/12/06,19.583333,-156.083333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,other,11,F,1,"3,3","NA, 92.77",NA,2,"55173, 61925","116823, 116825, 116826"
+78825,ERIN OLESON,Donator requested that PI request permission to use in study,2/14/09,19.433333,-156.083333,Main Hawaiian Islands,,HAWAII,UNITED STATES OF AMERICA,North Pacific,other,15,G,1,2,,NA,2,114347,
+55172,ROBIN BAIRD,Donator requested that PI request permission to use in study,4/12/06,19.583333,-156.083333,,,HAWAII,UNITED STATES OF AMERICA,North Pacific,other,12,H,1,"1,3","NA, 209.49",NA,3,61441,
+159704,PATRICIA ROSEL,Donator requested that PI request permission to use in study,11/9/13,36.9214,-75.9959,"Fort Story, East of lighthouse, Virginia Beach",,VIRGINIA,UNITED STATES OF AMERICA,North Atlantic,other,20,J1,1,"2,2",,NA,"0,0","159705, 159706",
+159700,PATRICIA ROSEL,Donator requested that PI request permission to use in study,8/15/07,33.8038,-78.7064,"at 25th Ave South, North Myrtle Beach",,SOUTH CAROLINA,UNITED STATES OF AMERICA,North Atlantic,other,22,J2,1,"2,2",,NA,"0,0","159696, 159697",

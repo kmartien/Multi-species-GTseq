@@ -1,0 +1,302 @@
+﻿Ggri_archive_dump_5June2024_LabID,T_ID,dbo_vw_Tissue_Vial_LabID,Vial_Num,Tissue_Type,Preservative,TQuant,TQuant_Description,TLeft,BQuant,Tissue_Location,Container_Type_Name,Vial_Type_Name,Container_Num,Rack,Box,Container_Row,Container_Column,CellStatus,CheckedOut,Checked_Out_By,Checked_Out_For,Comments,Accession_Date,EditDate,Edit_User,RecordCreationDate
+62,242,62,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,1,,,E,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+62,243,62,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Large Plastic Bin,20 ml plastic,2,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+72,258,72,1,Liver,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,1,,,F,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+72,259,72,2,Liver,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-20 Plastic Bins-Small (Mammals),Large Plastic Bin,20 ml plastic,2,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+141,317,141,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,1,,,J,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+144,322,144,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,2,,,A,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+451,725,451,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,4,,,D,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+479,750,479,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,4,,,F,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+483,82528,483,1,Skin,"DMSO, saturated salt solution",0,No tissue,N,0,-20 Walk In Freezer,,,,,,,,-1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+533,799,533,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,4,,,I,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+542,807,542,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,4,,,J,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+776,1028,776,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,6,,,H,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+1291,1483,1291,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,11,,,A,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+1293,1485,1293,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,11,,,A,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+1294,1486,1294,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,11,,,A,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+1301,1493,1301,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,3,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+1301,1494,1301,2,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,11,,,B,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+1301,103140,1301,3,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,11,,,B,2,1,N,,,,11/6/08,2/25/20,Dan Prosperi,11/6/08
+1564,1756,1564,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,whirlpak,3,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+1564,103159,1564,2,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,13,,,F,1,1,N,,,,11/18/08,2/25/20,Dan Prosperi,11/18/08
+1875,2125,1875,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,15,,,I,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+1877,2127,1877,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,15,,,I,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+2165,2291,2165,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,16,,,H,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+2165,2292,2165,2,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,16,,,H,5,1,N,,,Skin desintegrated.,3/3/08,2/25/20,Dan Prosperi,3/3/08
+2167,2294,2167,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,16,,,H,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+2668,2798,2668,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,20,,,B,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+3056,3191,3056,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,23,,,D,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+3067,3202,3067,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,23,,,D,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+3077,3212,3077,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,23,,,D,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+3170,3305,3170,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,23,,,G,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+3982,4097,3982,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,27,,,D,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4551,4652,4551,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml glass,30,,,F,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4689,4801,4689,1,Blubber,"DMSO, saturated salt solution",0,No tissue,Y,1,-20 Walk In Freezer,Flat,2 ml,31,,,A,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4690,4802,4690,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,31,,,A,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4691,4803,4691,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,31,,,A,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4692,4804,4692,1,Skin & Blubber,"DMSO, saturated salt solution",2,Enough tissue for 2 extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,31,,,A,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4694,4806,4694,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml glass,31,,,A,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4695,4807,4695,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml glass,31,,,A,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4771,4883,4771,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,31,,,H,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+4975,5100,4975,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,33,,,E,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+5001,5149,5001,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,33,,,I,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+5004,5152,5004,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,33,,,J,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+5007,5155,5007,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,33,,,J,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+5008,5156,5008,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,33,,,J,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+5074,5232,5074,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,34,,,F,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+6157,6306,6157,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,39,,,H,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+6963,7021,6963,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,43,,,F,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+7447,7592,7447,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,47,,,F,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+7629,7762,7629,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,48,,,B,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+7778,7871,7778,1,Skin & Blubber,"DMSO, saturated salt solution",2,Enough tissue for 2 extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,48,,,I,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+7779,7872,7779,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,48,,,I,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+8672,8466,8672,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,52,,,A,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+8682,8476,8682,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,52,,,B,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+8759,8556,8759,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,52,,,G,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9335,9257,9335,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,55,,,H,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9335,9258,9335,2,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,55,,,H,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9336,9259,9336,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,55,,,H,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9556,9349,9556,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml plastic,56,,,H,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9557,9350,9557,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml plastic,56,,,H,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+9558,9351,9558,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml plastic,56,,,H,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11204,10790,11204,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,64,,,H,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11692,11565,11692,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,65,,,J,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11692,79138,11692,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml glass,281,,,H,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11693,11566,11693,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,65,,,J,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11693,79139,11693,1,Blubber,Frozen; no preservative,0,No tissue,Y,1,-20 Walk In Freezer,Flat,20 ml glass,281,,,H,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+94413,125300,94413,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,168,F,1,1,N,,,,7/14/10,2/25/20,Dan Prosperi,7/14/10
+94471,125358,94471,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,343,,,A,6,1,N,,,,7/20/10,2/25/20,Dan Prosperi,7/20/10
+94471,125359,94471,2,Teeth,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,343,,,A,7,1,N,,,,7/20/10,2/25/20,Dan Prosperi,7/20/10
+94472,125360,94472,1,Teeth,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,343,,,A,8,1,N,,,,7/20/10,2/25/20,Dan Prosperi,7/20/10
+94804,125737,94804,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,169,D,7,1,N,,,,8/18/10,2/25/20,Dan Prosperi,8/18/10
+101142,132211,101142,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,171,E,1,1,N,,,,10/13/10,2/25/20,Dan Prosperi,10/13/10
+101143,132212,101143,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,171,E,2,1,N,,,,10/13/10,2/25/20,Dan Prosperi,10/13/10
+101144,132213,101144,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,171,E,3,1,N,,,,10/13/10,2/25/20,Dan Prosperi,10/13/10
+101159,132228,101159,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,9,171,F,9,1,N,,,,10/13/10,2/25/20,Dan Prosperi,10/13/10
+101160,132229,101160,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,171,G,1,1,N,,,,10/13/10,2/25/20,Dan Prosperi,10/13/10
+101851,132942,101851,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,349,,,J,6,1,N,,,,10/21/10,2/25/20,Dan Prosperi,10/21/10
+102563,133451,102563,1,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,other,19,,,,,1,N,,,,11/15/10,2/25/20,Dan Prosperi,11/15/10
+108390,152231,108390,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,299,,,J,10,1,N,,,,7/18/12,2/25/20,Dan Prosperi,7/18/12
+113015,157280,113015,1,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml glass,370,,,D,9,1,N,,,,10/16/12,2/25/20,Dan Prosperi,10/16/12
+11694,11567,11694,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,65,,,J,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+11694,79140,11694,1,Blubber,Frozen; no preservative,0,No tissue,Y,1,-20 Walk In Freezer,Flat,20 ml glass,281,,,I,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+12306,12530,12306,1,Blubber,"DMSO, saturated salt solution",0,No tissue,Y,2,-20 Walk In Freezer,Flat,2 ml,68,,,E,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+12306,12531,12306,2,Muscle,"DMSO, saturated salt solution",1,Enough tissue for 1 extraction,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,68,,,F,1,1,N,,,only little pieces left in the salt,3/3/08,2/25/20,Dan Prosperi,3/3/08
+12307,12532,12307,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,68,,,F,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+13860,14093,13860,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,75,,,D,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+13876,14109,13876,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,75,,,D,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+15899,15751,15899,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,83,,,A,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+15899,79310,15899,1,Blubber,Frozen; no preservative,0,No tissue,Y,1,-20 Walk In Freezer,Flat,20 ml glass,284,,,D,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+15900,15752,15900,1,Skin,"DMSO, saturated salt solution",2,Enough tissue for 2 extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,83,,,A,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+15900,79311,15900,1,Blubber,Frozen; no preservative,0,No tissue,Y,1,-20 Walk In Freezer,Flat,20 ml glass,284,,,D,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+15901,15753,15901,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,83,,,A,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+15901,79312,15901,1,Blubber,Frozen; no preservative,0,No tissue,Y,1,-20 Walk In Freezer,Flat,20 ml glass,284,,,D,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+15997,15995,15997,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,83,,,B,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+15997,79332,15997,1,Blubber,Frozen; no preservative,0,No tissue,Y,1,-20 Walk In Freezer,Flat,20 ml glass,284,,,F,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+23155,23351,23155,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,103,,,I,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+23187,23389,23187,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,141,,,C,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+23799,23956,23799,1,Skin & Blubber,Formalin,3,Enough tissue for 3 or more extractions,Y,1,Larval Fish & Specimen Archive,Flat,2 ml,2,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+23799,23957,23799,2,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,105,,,J,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+23800,23958,23800,1,Skin & Blubber,Formalin,1,Enough tissue for 1 extraction,Y,1,Larval Fish & Specimen Archive,Flat,2 ml,2,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+23800,23959,23800,2,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,105,,,J,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+23942,24112,23942,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,106,,,D,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+23942,24113,23942,2,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,106,,,D,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+25435,26604,25435,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,141,,,B,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+26306,27409,26306,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,141,,,C,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+26307,27410,26307,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,141,,,C,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+26308,27411,26308,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,141,,,C,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+26309,27412,26309,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,2 ml,141,,,C,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+26642,27767,26642,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,116,,,F,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+26642,27768,26642,2,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+26643,27769,26643,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,116,,,G,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+26643,27770,26643,2,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,116,,,G,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+28480,29665,28480,1,Skin,RNA later solution,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,121,,,J,5,1,N,,,curated with RNAL from 06/2000,3/3/08,2/25/20,Dan Prosperi,3/3/08
+32931,34810,32931,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,140,,,F,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+32940,34820,32940,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,140,,,G,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+37967,39700,37967,1,Skin & Blubber,"DMSO, saturated salt solution",1,Enough tissue for 1 extraction,Y,1,-20 Walk In Freezer,Flat,2 ml,337,,,F,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+37971,39709,37971,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,2,38,H,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+37971,39710,37971,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,2,38,H,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+37971,39711,37971,3,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,337,,,F,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+37972,39712,37972,1,Blubber,Frozen; no preservative,0,No tissue,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,2,38,H,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+37972,39713,37972,2,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,2,38,H,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+37972,39714,37972,3,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,337,,,F,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38113,40124,38113,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,42,E,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38113,40125,38113,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,3,42,E,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38113,40126,38113,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38114,40127,38114,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,42,E,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38114,40128,38114,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,3,42,E,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38114,40129,38114,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38251,40516,38251,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,A,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38251,40517,38251,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,A,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38251,40518,38251,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38252,40519,38252,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,A,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38252,40520,38252,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,A,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38252,40521,38252,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38253,40522,38253,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,A,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38253,40523,38253,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,A,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38253,40524,38253,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38254,40525,38254,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38254,40526,38254,2,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38254,40527,38254,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38255,40528,38255,1,Skin & Blubber,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38255,40529,38255,2,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38255,40530,38255,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38256,40531,38256,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38256,40532,38256,2,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38256,40533,38256,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38257,40534,38257,1,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38257,40535,38257,2,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38257,40536,38257,3,Skin,"DMSO, saturated salt solution",2,Enough tissue for 2 extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38258,40537,38258,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,B,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38258,40538,38258,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,C,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38258,40539,38258,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38266,40560,38266,1,Skin & Blubber,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,D,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38266,40561,38266,2,Skin & Blubber,Frozen; no preservative,2,Enough tissue for 2 extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,D,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38266,40562,38266,3,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38275,40587,38275,1,Skin & Blubber,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,F,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38275,40588,38275,2,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38276,40589,38276,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38277,40590,38277,1,Skin & Blubber,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,F,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38277,40591,38277,2,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,3,46,F,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+38277,40592,38277,3,Skin,"DMSO, saturated salt solution",2,Enough tissue for 2 extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,337,,,G,5,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+39080,41469,39080,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,156,,,H,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+39082,41471,39082,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,156,,,H,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+39083,41472,39083,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,156,,,H,9,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+39084,41473,39084,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,156,,,H,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+39556,41954,39556,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,158,,,C,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+41842,44576,41842,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,163,,,B,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+41843,44577,41843,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,163,,,B,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+41844,44578,41844,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,163,,,B,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+41845,44579,41845,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,163,,,B,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+41846,44580,41846,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,163,,,B,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+41847,44581,41847,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,163,,,B,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+41850,44584,41850,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,163,,,B,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+48062,51545,48062,1,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,181,,,D,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+48081,51564,48081,1,"Teeth, bone, baleen, feces, or hair","Skin, bone, or other tissue stored without preservative",3,Enough tissue for 3 or more extractions,Y,0,Ancient DNA Lab,Cardboard Box,2 ml,6,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+48084,51567,48084,1,"Teeth, bone, baleen, feces, or hair","Skin, bone, or other tissue stored without preservative",3,Enough tissue for 3 or more extractions,Y,0,Ancient DNA Lab,Cardboard Box,2 ml,6,,,,,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+48586,52446,48586,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,5,84,G,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+51127,56025,51127,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,5,87,H,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+51128,56026,51128,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,5,87,H,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+51129,56027,51129,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,5,87,H,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+51130,56028,51130,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,5,87,H,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+52455,57427,52455,1,Skin,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,5,95,F,6,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+52456,57428,52456,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,5,95,F,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+53165,58236,53165,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,197,,,F,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+53476,58586,53476,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,197,,,D,4,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+57814,72323,57814,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,210,,,B,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+61944,78933,61944,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,6,119,B,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+61945,78934,61945,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,6,119,B,3,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+61948,78937,61948,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,6,119,B,6,1,N,,,Sample missing per KMR as of 7/20/2012. Found 11/17/2016.,3/3/08,2/25/20,Dan Prosperi,3/3/08
+62830,80437,62830,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,229,,,B,10,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+62830,80438,62830,2,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,229,,,C,1,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+66557,90039,66557,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,237,,,E,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+66557,90040,66557,2,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,237,,,E,7,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+66557,90041,66557,3,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,7,126,G,2,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+73404,99910,73404,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,263,,,E,8,1,N,,,,3/3/08,2/25/20,Dan Prosperi,3/3/08
+73679,100293,73679,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,265,,,H,8,1,N,,,Sample arrived in dry salt and was transferred to DMSO,4/17/08,2/25/20,Dan Prosperi,4/17/08
+74703,101411,74703,1,Other: Specify in Comments,"DMSO, saturated salt solution",1,Enough tissue for 1 extraction,Y,1,-20 Walk In Freezer,Flat,2 ml,302,,,C,4,1,N,,,Mostly blubber with a small amount of muscle tissue left per L.Dollar 7/31/12,9/29/08,2/25/20,Dan Prosperi,9/29/08
+74703,101412,74703,2,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,302,,,C,4,1,N,,,,9/29/08,2/25/20,Dan Prosperi,9/29/08
+74703,101413,74703,3,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,7,138,E,1,1,N,,,,9/29/08,2/25/20,Dan Prosperi,9/29/08
+74706,101417,74706,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2-20 ml plastic,302,,,C,6,1,N,,,,9/29/08,2/25/20,Dan Prosperi,9/29/08
+76436,103273,76436,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,311,,,F,2,1,N,,,,12/5/08,2/25/20,Dan Prosperi,12/5/08
+76971,103836,76971,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,8,142,D,7,1,N,,,,12/15/08,2/25/20,Dan Prosperi,12/15/08
+77617,104667,77617,1,Kidney,Ethanol,3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,313,,,J,4,1,N,,,,2/13/09,2/25/20,Dan Prosperi,2/13/09
+78761,106231,78761,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,317,,,B,6,1,N,,,,6/30/09,2/25/20,Dan Prosperi,6/30/09
+79772,107426,79772,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,8,145,F,9,1,N,,,,7/30/09,2/25/20,Dan Prosperi,7/30/09
+79774,107428,79774,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,8,145,G,2,1,N,,,,7/30/09,2/25/20,Dan Prosperi,7/30/09
+79779,107433,79779,1,Skin,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,8,145,G,7,1,N,,,Small piece of conective tissue.,7/30/09,2/25/20,Dan Prosperi,7/30/09
+79937,107647,79937,1,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml glass,325,,,F,3,1,N,,,,8/4/09,2/25/20,Dan Prosperi,8/4/09
+79953,107663,79953,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,8,146,E,3,1,N,,,,8/5/09,2/25/20,Dan Prosperi,8/5/09
+87478,115553,87478,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,8,147,B,8,1,N,,,,9/14/09,2/25/20,Dan Prosperi,9/14/09
+87480,115555,87480,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,8,147,C,1,1,N,,,,9/14/09,2/25/20,Dan Prosperi,9/14/09
+87483,115558,87483,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,8,147,C,4,1,N,,,,9/14/09,2/25/20,Dan Prosperi,9/14/09
+88952,117882,88952,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,8,147,I,6,1,N,,,,12/2/09,2/25/20,Dan Prosperi,12/2/09
+88975,117408,88975,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,8,147,H,8,1,N,,,,11/18/09,2/25/20,Dan Prosperi,11/18/09
+92270,122573,92270,1,Other: Specify in Comments,"Skin, bone, or other tissue stored without preservative",3,Enough tissue for 3 or more extractions,Y,0,Ancient DNA Lab,Cardboard Box,other,10,,,,,1,N,,,Cartilage from skull in glass jar,4/6/10,2/25/20,Dan Prosperi,4/6/10
+93900,124797,93900,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml plastic,341,,,F,5,1,N,,,,6/14/10,2/25/20,Dan Prosperi,6/14/10
+113441,157752,113441,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,371,,,I,3,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113441,157753,113441,2,Muscle,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,371,,,I,3,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113441,157754,113441,3,Muscle,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,11,201,F,2,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113442,157755,113442,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,371,,,I,3,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113442,157756,113442,2,Muscle,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,371,,,I,3,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113442,157757,113442,3,Muscle,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,11,201,F,3,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113443,157758,113443,1,Muscle,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,371,,,I,4,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113443,157759,113443,2,Muscle,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,371,,,I,4,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113443,157760,113443,3,Muscle,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,11,201,F,4,1,N,,,,11/21/12,2/25/20,Dan Prosperi,11/21/12
+113633,158044,113633,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,11,202,B,5,1,N,,,,1/11/13,2/25/20,Dan Prosperi,1/11/13
+113634,158045,113634,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,11,202,B,6,1,N,,,,1/11/13,2/25/20,Dan Prosperi,1/11/13
+114337,158876,114337,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,373,,,C,3,1,N,,,,3/12/13,2/25/20,Dan Prosperi,3/12/13
+114346,158880,114346,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,373,,,C,3,1,N,,,,4/5/13,2/25/20,Dan Prosperi,4/5/13
+117598,162854,117598,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,379,,,G,9,1,N,,,,11/19/13,2/25/20,Dan Prosperi,11/19/13
+117598,162855,117598,2,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,379,,,G,9,1,N,,,,11/19/13,2/25/20,Dan Prosperi,11/19/13
+117598,162856,117598,3,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,11,211,C,9,1,N,,,,11/19/13,2/25/20,Dan Prosperi,11/19/13
+117772,163181,117772,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,380,,,A,5,1,N,,,,12/4/13,2/25/20,Dan Prosperi,12/4/13
+118477,164090,118477,1,Skin,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,11,215,E,7,1,N,,,,12/18/13,2/25/20,Dan Prosperi,12/18/13
+123934,135199,123934,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,178,A,4,1,N,,,,1/14/11,2/25/20,Dan Prosperi,1/14/11
+123935,135200,123935,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,9,178,A,5,1,N,,,,1/14/11,2/25/20,Dan Prosperi,1/14/11
+124011,135352,124011,1,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,2,-20 Plastic Bins-Small (Mammals),Small Plastic Bin,other,19,,,,,1,N,,,,2/2/11,2/25/20,Dan Prosperi,2/2/11
+124025,135370,124025,1,Muscle,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,357,,,D,9,1,N,,,,2/14/11,2/25/20,Dan Prosperi,2/14/11
+125652,137874,125652,1,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,278,,,J,10,1,N,,,,5/16/11,2/25/20,Dan Prosperi,5/16/11
+125653,137875,125653,1,Skin & Blubber,"DMSO, saturated salt solution",2,Enough tissue for 2 extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,279,,,A,1,1,N,,,,5/16/11,2/25/20,Dan Prosperi,5/16/11
+125882,138398,125882,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,10,181,F,1,1,N,,,,7/7/11,2/25/20,Dan Prosperi,7/7/11
+125946,138485,125946,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,10,181,I,1,1,N,,,,7/21/11,2/25/20,Dan Prosperi,7/21/11
+125947,138486,125947,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,10,181,I,2,1,N,,,,7/21/11,2/25/20,Dan Prosperi,7/21/11
+125948,138487,125948,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,10,181,I,3,1,N,,,,7/21/11,2/25/20,Dan Prosperi,7/21/11
+125950,138489,125950,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,10,181,I,5,1,N,,,,7/21/11,2/25/20,Dan Prosperi,7/21/11
+125951,138490,125951,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,10,181,I,6,1,N,,,,7/21/11,2/25/20,Dan Prosperi,7/21/11
+125952,138491,125952,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,10,181,I,7,1,N,,,,7/21/11,2/25/20,Dan Prosperi,7/21/11
+126024,138605,126024,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,2,-20 Walk In Freezer,Flat,20 ml plastic,360,,,A,7,1,N,,,,8/9/11,2/25/20,Dan Prosperi,8/9/11
+133201,145928,133201,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,10,185,G,1,1,N,,,,10/19/11,2/25/20,Dan Prosperi,10/19/11
+133202,145929,133202,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,10,185,G,2,1,N,,,,10/19/11,2/25/20,Dan Prosperi,10/19/11
+133255,145984,133255,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,20 ml plastic,361,,,H,6,1,N,,,,10/26/11,2/25/20,Dan Prosperi,10/26/11
+133286,146017,133286,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,10,186,A,3,1,N,,,SAMPLE THAWED IN TRANSIT,10/26/11,2/25/20,Dan Prosperi,10/26/11
+133289,146020,133289,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,10,186,A,6,1,N,,,SAMPLE THAWED IN TRANSIT,10/26/11,2/25/20,Dan Prosperi,10/26/11
+133292,146023,133292,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,10,186,A,9,1,N,,,POSSIBLY MUD FROM ANTENNA AREA? SAMPLE THAWED IN TRANSIT,10/26/11,2/25/20,Dan Prosperi,10/26/11
+133293,146024,133293,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,10,186,B,1,1,N,,,SAMPLE THAWED IN TRANSIT,10/26/11,2/25/20,Dan Prosperi,10/26/11
+143967,178597,143967,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,391,,,F,1,1,N,,,,8/11/14,2/25/20,Dan Prosperi,8/11/14
+146464,181133,146464,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,396,,,B,8,1,N,,,,3/9/15,2/25/20,Dan Prosperi,3/9/15
+146464,181134,146464,2,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,396,,,B,8,1,N,,,,3/9/15,2/25/20,Dan Prosperi,3/9/15
+146464,181135,146464,3,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,12,222,F,7,1,N,,,,3/9/15,2/2/22,Alaina Harmon,3/9/15
+157454,192903,157454,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,404,,,D,7,1,N,,,,7/1/15,2/25/20,Dan Prosperi,7/1/15
+157454,192904,157454,2,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,404,,,D,8,1,N,,,,7/1/15,2/25/20,Dan Prosperi,7/1/15
+157454,192905,157454,3,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,223,G,9,1,N,,,,7/1/15,2/2/22,Alaina Harmon,7/1/15
+157455,192906,157455,1,Skin & Blubber,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,404,,,D,8,1,N,,,,7/1/15,2/25/20,Dan Prosperi,7/1/15
+157455,192907,157455,2,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,404,,,D,8,1,N,,,,7/1/15,2/25/20,Dan Prosperi,7/1/15
+157455,192908,157455,3,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,223,H,1,1,N,,,,7/1/15,2/2/22,Alaina Harmon,7/1/15
+173497,210321,173497,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,228,I,9,1,N,,,,4/21/16,2/25/20,Dan Prosperi,4/21/16
+173499,210323,173499,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,229,A,2,1,N,,,,4/21/16,2/25/20,Dan Prosperi,4/21/16
+173507,210331,173507,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,229,B,1,1,N,,,,4/21/16,2/25/20,Dan Prosperi,4/21/16
+173811,210640,173811,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,415,,,A,1,1,N,,,,5/3/16,2/25/20,Dan Prosperi,5/3/16
+173980,210872,173980,1,Skin & Blubber,Ethanol,3,Enough tissue for 3 or more extractions,Y,1,-20 Walk In Freezer,Flat,2 ml,415,,,D,9,1,N,,,,5/16/16,2/25/20,Dan Prosperi,5/16/16
+173980,210873,173980,2,Muscle,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,12,229,H,4,1,N,,,,5/16/16,2/25/20,Dan Prosperi,5/16/16
+177991,215410,177991,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,418,,,F,7,1,N,,,,11/8/16,2/25/20,Dan Prosperi,11/8/16
+178021,215495,178021,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,418,,,G,5,1,N,,,,11/15/16,2/25/20,Dan Prosperi,11/15/16
+178027,215501,178027,1,Blubber,"DMSO, saturated salt solution",0,No tissue,Y,2,-20 Walk In Freezer,Flat,2 ml,418,,,G,6,1,N,,,,11/15/16,2/25/20,Dan Prosperi,11/15/16
+178258,215828,178258,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,12,239,G,7,1,N,,,,1/5/17,2/25/20,Dan Prosperi,1/5/17
+178259,215829,178259,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,239,G,8,1,N,,,,1/5/17,2/25/20,Dan Prosperi,1/5/17
+178260,215830,178260,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,239,G,9,1,N,,,,1/5/17,2/25/20,Dan Prosperi,1/5/17
+178261,215831,178261,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,239,H,1,1,N,,,,1/5/17,2/25/20,Dan Prosperi,1/5/17
+178265,215835,178265,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,12,239,H,5,1,N,,,,1/5/17,2/25/20,Dan Prosperi,1/5/17
+178266,215836,178266,1,Other: Specify in Comments,Frozen; no preservative,1,Enough tissue for 1 extraction,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,12,239,H,6,1,N,,,"Connective tissue only, specs",1/5/17,2/25/20,Dan Prosperi,1/5/17
+183506,222051,183506,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,421,,,D,4,1,N,,,,5/11/17,2/25/20,Dan Prosperi,5/11/17
+185277,223968,185277,1,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,422,,,C,6,1,N,,,,7/5/17,2/25/20,Dan Prosperi,7/5/17
+185487,224233,185487,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,13,244,G,5,1,N,,,,8/22/17,2/25/20,Dan Prosperi,8/22/17
+185488,224234,185488,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,13,244,G,6,1,N,,,,8/22/17,2/25/20,Dan Prosperi,8/22/17
+185553,224299,185553,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,13,245,E,8,1,N,,,,8/28/17,2/25/20,Dan Prosperi,8/28/17
+185562,224308,185562,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,13,245,F,8,1,N,,,,8/28/17,2/25/20,Dan Prosperi,8/28/17
+186894,225778,186894,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,429,,,B,1,1,N,,,,11/13/17,2/25/20,Dan Prosperi,11/13/17
+191009,230199,191009,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,13,252,E,3,1,N,,,Skin Only Biopsy,5/22/18,2/25/20,Dan Prosperi,5/22/18
+191166,230385,191166,1,Skin,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,13,253,D,9,1,N,,,,7/2/18,2/25/20,Dan Prosperi,7/2/18
+191167,230386,191167,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,13,253,E,1,1,N,,,,7/2/18,2/25/20,Dan Prosperi,7/2/18
+191168,230387,191168,1,Other: Specify in Comments,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,13,253,E,2,1,N,,,connective tissue,7/2/18,2/25/20,Dan Prosperi,7/2/18
+191169,230388,191169,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,13,253,E,3,1,N,,,,7/2/18,2/25/20,Dan Prosperi,7/2/18
+191406,230662,191406,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,1,-80 Upright Freezer F4,CryoBox,2 ml,,13,254,G,6,1,N,,,,7/23/18,7/27/23,Alaina Harmon,7/23/18
+196960,236835,196960,1,Muscle,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,14,261,I,9,1,N,,,,3/18/19,2/25/20,Dan Prosperi,3/18/19
+202274,242960,202274,1,Skin,"DMSO, saturated salt solution",3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,446,,,C,10,1,N,,,,2/3/20,2/25/20,Dan Prosperi,2/3/20
+206165,247188,206165,1,Skin,Ethanol,2,Enough tissue for 2 extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,455,,,E,7,1,N,,,"Archivist Note: Tags in vial, partially visible: ""Pseudorca 11 May 20 80 Mile Be[…]"" and ""F5228."" Alaina Harmon, 24 July 2023: Tissue split for Loan 466.",7/1/21,9/13/23,Alaina Harmon,7/1/21
+208127,249353,208127,1,Muscle,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,0,-80 Upright Freezer F4,CryoBox,2 ml,,10,193,F,8,1,N,,,"Archivist Notes, 19 January 2022: Sample was found in the -20 ""to be accessioned"" stranding box on 30 November 2021 at which time it was moved to -80.",1/20/22,2/1/22,Alaina Harmon,1/20/22
+208127,249354,208127,2,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,455,,,J,4,1,N,,,,1/20/22,1/20/22,Alaina Harmon,1/20/22
+209902,251192,209902,1,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,20 ml glass,457,,,B,8,1,N,,,,4/25/22,5/27/22,Alaina Harmon,4/25/22
+210189,251586,210189,1,Heart,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,457,,,J,8,1,N,,,,6/17/22,6/17/22,Alaina Harmon,6/17/22
+210231,251628,210231,1,Skin,Ethanol,3,Enough tissue for 3 or more extractions,Y,0,-20 Walk In Freezer,Flat,2 ml,458,,,A,9,1,N,,,,6/17/22,6/17/22,Alaina Harmon,6/17/22
+217545,260276,217545,1,Skin & Blubber,Frozen; no preservative,3,Enough tissue for 3 or more extractions,Y,2,-80 Upright Freezer F4,CryoBox,2 ml,,9,172,A,9,1,N,,,"Alaina Harmon, 29 May 2024: Moved from 20 ml to 2 ml at SWFSC. Based on sample notes, it seems likely that the sample used to be in ethanol.",5/29/24,5/31/24,Alaina Harmon,5/29/24
