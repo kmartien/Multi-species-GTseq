@@ -6,6 +6,11 @@
 .RData
 .RDataTmp
 
+# Specific files and folders
+/data-raw/blackfish_lcWGS_data
+/data-raw/*.html
+/results/*.html
+
 # User-specific files
 .Ruserdata
 
